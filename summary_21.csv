@@ -1,0 +1,23 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+326 /api/community,50,1503,1407,1687,59.47,0.000%,19.10585,45.77,7.22,2453.0
+460 /api/v3/oauth/token?grant_type=client_credentials&client_id=v9N8AU5LPBBueZgPGJIM7AvCgJnkKPjVF4OgHg8wt6lzFHiq&client_secret=MDlSGtbnC4KLx5M2OX95ewvYed7t6NLWpN9TiyCtpJ7VSzxG&country_code=IN&language_code=en_US,50,1590,1178,2278,282.24,0.000%,15.16990,7.02,8.41,474.0
+377 /api/analytics?language_code=en_US&country_code=IN,50,977,644,1733,274.96,0.000%,13.48436,6.76,8.85,513.0
+378 /api/v3/internal_merchandises/64,50,1355,293,2071,413.91,0.000%,10.19160,14.04,4.45,1411.0
+379 /api/concerts/available_ticket,50,1497,1410,1618,48.06,0.000%,8.15794,4.95,5.74,621.0
+380 /api/v3/clients/78/force_app_update,50,1947,1317,3491,426.19,0.000%,7.76277,4.25,3.40,561.0
+381 /api/v3/clients/78/force_app_update,50,1403,423,3408,877.44,0.000%,6.11471,3.35,2.68,561.0
+382 /api/v3/clients/78/force_app_update,50,1751,505,3410,729.29,0.000%,5.67022,3.11,2.49,561.0
+383 /api/v3/clients/78/force_app_update,50,1543,249,3544,834.54,0.000%,5.23780,2.87,2.30,561.0
+384 /api/concerts/block_seats?language_code=en_US&country_code=IN,50,1485,1423,1597,39.92,0.000%,5.31293,2.78,3.83,536.0
+385 /api/v3/clients/78/force_app_update,50,1603,1209,2543,347.36,0.000%,5.28039,2.89,2.32,561.0
+386 /api/cards,50,1982,1403,10217,1620.08,0.000%,2.75938,1.32,1.78,488.0
+387 /api/v3/clients/78/force_app_update,50,1518,1160,2744,415.59,0.000%,2.79220,1.53,1.22,561.0
+389 /4,50,1501,1451,1794,53.77,0.000%,2.80599,1.78,1.77,648.8
+390 /,50,1514,1437,1847,67.29,0.000%,2.76106,1.20,1.88,444.0
+391 /v1/tokens,50,1734,1645,2014,65.50,0.000%,2.70153,3.62,1.82,1373.0
+392 /api/cards/payment?language_code=en_US&country_code=IN,50,26641,14112,31497,4142.79,18.000%,1.21042,0.66,1.22,555.9
+393 /api/v3/clients/78/force_app_update,50,1472,1379,1890,90.12,0.000%,1.74819,0.96,0.77,561.0
+394 /api/v3/clients/78/force_app_update,50,321,284,521,53.75,0.000%,1.82989,1.00,0.80,561.0
+395 /api/v3/client/feed_filters,50,381,289,1532,273.70,0.000%,1.82668,4.31,0.79,2416.0
+396 /api/v3/clients/78/cta_buttons,50,1274,299,1876,470.84,0.000%,1.72724,0.82,0.91,488.0
+TOTAL,1050,2619,249,31497,5486.99,0.857%,15.81492,12.44,8.70,805.2

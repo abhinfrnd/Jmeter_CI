@@ -1,0 +1,951 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1529584733051,802,196 /api/user/login/,201,Created,Thread Group 1-3,text,true,,702,534,25,25,802,0,412
+1529584733043,821,196 /api/user/login/,201,Created,Thread Group 1-1,text,true,,702,534,25,25,821,0,420
+1529584733161,716,196 /api/user/login/,201,Created,Thread Group 1-6,text,true,,702,534,25,25,716,0,303
+1529584733043,920,196 /api/user/login/,201,Created,Thread Group 1-2,text,true,,702,534,25,25,920,0,429
+1529584733241,745,196 /api/user/login/,201,Created,Thread Group 1-8,text,true,,702,534,25,25,745,0,267
+1529584733122,865,196 /api/user/login/,201,Created,Thread Group 1-5,text,true,,702,534,25,25,865,0,352
+1529584733083,993,196 /api/user/login/,201,Created,Thread Group 1-4,text,true,,702,534,25,25,993,0,424
+1529584733374,758,196 /api/user/login/,201,Created,Thread Group 1-11,text,true,,702,534,25,25,758,0,270
+1529584733201,945,196 /api/user/login/,201,Created,Thread Group 1-7,text,true,,702,534,25,25,945,0,329
+1529584733293,854,196 /api/user/login/,201,Created,Thread Group 1-9,text,true,,702,534,25,25,854,0,288
+1529584733441,773,196 /api/user/login/,201,Created,Thread Group 1-13,text,true,,702,534,25,25,773,0,263
+1529584733336,894,196 /api/user/login/,201,Created,Thread Group 1-10,text,true,,702,534,25,25,893,0,324
+1529584733414,858,196 /api/user/login/,201,Created,Thread Group 1-12,text,true,,702,534,25,25,858,0,333
+1529584733497,804,196 /api/user/login/,201,Created,Thread Group 1-14,text,true,,702,534,25,25,803,0,297
+1529584733530,805,196 /api/user/login/,201,Created,Thread Group 1-15,text,true,,702,534,25,25,805,0,272
+1529584733641,733,196 /api/user/login/,201,Created,Thread Group 1-18,text,true,,702,534,25,25,733,0,261
+1529584733561,837,196 /api/user/login/,201,Created,Thread Group 1-16,text,true,,702,534,25,25,837,0,308
+1529584733723,753,196 /api/user/login/,201,Created,Thread Group 1-20,text,true,,703,534,25,25,753,0,278
+1529584733683,803,196 /api/user/login/,201,Created,Thread Group 1-19,text,true,,703,534,25,25,803,0,302
+1529584733601,890,196 /api/user/login/,201,Created,Thread Group 1-17,text,true,,702,534,25,25,890,0,323
+1529584733803,772,196 /api/user/login/,201,Created,Thread Group 1-22,text,true,,703,534,25,25,772,0,296
+1529584733861,775,196 /api/user/login/,201,Created,Thread Group 1-23,text,true,,703,534,25,25,775,0,311
+1529584733762,889,196 /api/user/login/,201,Created,Thread Group 1-21,text,true,,703,534,25,25,889,0,330
+1529584733882,807,196 /api/user/login/,201,Created,Thread Group 1-24,text,true,,703,534,25,25,807,0,305
+1529584734369,329,201 /api/user/asset-archive/,200,OK,Thread Group 1-1,text,true,,302,483,25,25,329,0,0
+1529584734365,337,201 /api/user/asset-archive/,200,OK,Thread Group 1-3,text,true,,302,483,25,25,337,0,0
+1529584733925,788,196 /api/user/login/,201,Created,Thread Group 1-25,text,true,,703,534,25,25,788,0,299
+1529584734387,348,201 /api/user/asset-archive/,200,OK,Thread Group 1-6,text,true,,302,483,25,25,347,0,0
+1529584734486,307,201 /api/user/asset-archive/,200,OK,Thread Group 1-8,text,true,,302,483,25,25,307,0,0
+1529584734465,331,201 /api/user/asset-archive/,200,OK,Thread Group 1-2,text,true,,302,483,25,25,331,0,0
+1529584734489,336,201 /api/user/asset-archive/,200,OK,Thread Group 1-5,text,true,,302,483,25,25,336,0,0
+1529584734634,301,201 /api/user/asset-archive/,200,OK,Thread Group 1-11,text,true,,302,483,25,25,301,0,0
+1529584734578,365,201 /api/user/asset-archive/,200,OK,Thread Group 1-4,text,true,,302,483,25,25,365,0,0
+1529584734649,326,201 /api/user/asset-archive/,200,OK,Thread Group 1-9,text,true,,302,483,25,25,326,0,0
+1529584734715,303,201 /api/user/asset-archive/,200,OK,Thread Group 1-13,text,true,,302,483,25,25,303,0,0
+1529584734647,376,201 /api/user/asset-archive/,200,OK,Thread Group 1-7,text,true,,302,483,25,25,375,0,0
+1529584734731,361,201 /api/user/asset-archive/,200,OK,Thread Group 1-10,text,true,,302,483,25,25,361,0,0
+1529584734802,322,201 /api/user/asset-archive/,200,OK,Thread Group 1-14,text,true,,302,483,25,25,322,0,0
+1529584734773,352,201 /api/user/asset-archive/,200,OK,Thread Group 1-12,text,true,,302,483,25,25,352,0,0
+1529584734836,304,201 /api/user/asset-archive/,200,OK,Thread Group 1-15,text,true,,302,483,25,25,304,0,0
+1529584734876,292,201 /api/user/asset-archive/,200,OK,Thread Group 1-18,text,true,,302,483,25,25,292,0,0
+1529584734899,363,201 /api/user/asset-archive/,200,OK,Thread Group 1-16,text,true,,302,483,25,25,363,0,0
+1529584734977,326,201 /api/user/asset-archive/,200,OK,Thread Group 1-20,text,true,,302,483,25,25,326,0,0
+1529584734987,352,201 /api/user/asset-archive/,200,OK,Thread Group 1-19,text,true,,302,483,25,25,352,0,0
+1529584734993,368,201 /api/user/asset-archive/,200,OK,Thread Group 1-17,text,true,,302,483,25,25,368,0,0
+1529584735075,328,201 /api/user/asset-archive/,200,OK,Thread Group 1-22,text,true,,302,483,25,25,327,0,0
+1529584735137,338,201 /api/user/asset-archive/,200,OK,Thread Group 1-23,text,true,,302,483,25,25,338,0,0
+1529584735152,353,201 /api/user/asset-archive/,200,OK,Thread Group 1-21,text,true,,302,483,25,25,353,0,0
+1529584735189,342,201 /api/user/asset-archive/,200,OK,Thread Group 1-24,text,true,,302,483,25,25,342,0,0
+1529584735214,345,201 /api/user/asset-archive/,200,OK,Thread Group 1-25,text,true,,302,483,25,25,345,0,0
+1529584735200,850,200 /api/user/asset/,200,OK,Thread Group 1-1,text,true,,5541,475,25,25,849,0,266
+1529584735235,847,200 /api/user/asset/,200,OK,Thread Group 1-6,text,true,,5527,475,25,25,847,0,266
+1529584735203,925,200 /api/user/asset/,200,OK,Thread Group 1-3,text,true,,5537,475,25,25,925,0,297
+1529584735296,1139,200 /api/user/asset/,200,OK,Thread Group 1-2,text,true,,5530,475,25,25,1139,0,264
+1529584735294,1151,200 /api/user/asset/,200,OK,Thread Group 1-8,text,true,,5528,475,25,25,1150,0,321
+1529584735326,1151,200 /api/user/asset/,200,OK,Thread Group 1-5,text,true,,5529,475,25,25,1151,0,297
+1529584735436,1244,200 /api/user/asset/,200,OK,Thread Group 1-11,text,true,,2910,475,25,25,1244,0,309
+1529584735445,1279,200 /api/user/asset/,200,OK,Thread Group 1-4,text,true,,5527,475,25,25,1279,0,264
+1529584735476,1303,200 /api/user/asset/,200,OK,Thread Group 1-9,text,true,,5529,475,25,25,1303,0,265
+1529584735519,1434,200 /api/user/asset/,200,OK,Thread Group 1-13,text,true,,2913,475,25,25,1434,0,315
+1529584735630,1348,200 /api/user/asset/,200,OK,Thread Group 1-12,text,true,,2912,475,25,25,1348,0,264
+1529584735523,1465,200 /api/user/asset/,200,OK,Thread Group 1-7,text,true,,5523,475,25,25,1465,0,276
+1529584735669,1481,200 /api/user/asset/,200,OK,Thread Group 1-18,text,true,,2908,475,25,25,1481,0,267
+1529584735641,1553,200 /api/user/asset/,200,OK,Thread Group 1-15,text,true,,2911,475,25,25,1553,0,283
+1529584735595,1703,200 /api/user/asset/,200,OK,Thread Group 1-10,text,true,,5525,475,25,25,1703,0,306
+1529584735763,1629,200 /api/user/asset/,200,OK,Thread Group 1-16,text,true,,2925,475,25,25,1629,0,330
+1529584735626,1812,200 /api/user/asset/,200,OK,Thread Group 1-14,text,true,,5533,475,25,25,1812,0,299
+1529584735804,1694,200 /api/user/asset/,200,OK,Thread Group 1-20,text,true,,2912,475,25,25,1694,0,296
+1529584735862,1676,200 /api/user/asset/,200,OK,Thread Group 1-17,text,true,,2912,475,25,25,1676,0,265
+1529584735840,1782,200 /api/user/asset/,200,OK,Thread Group 1-19,text,true,,2915,475,25,25,1782,0,321
+1529584735903,1795,200 /api/user/asset/,200,OK,Thread Group 1-22,text,true,,2913,475,25,25,1795,0,300
+1529584735977,1727,200 /api/user/asset/,200,OK,Thread Group 1-23,text,true,,2924,475,25,25,1727,0,271
+1529584736032,1751,200 /api/user/asset/,200,OK,Thread Group 1-24,text,true,,2911,475,25,25,1751,0,294
+1529584736551,1264,199 /api/user/status/,200,OK,Thread Group 1-1,text,true,,1077,476,25,25,1264,0,0
+1529584736583,1279,199 /api/user/status/,200,OK,Thread Group 1-6,text,true,,1077,476,25,25,1279,0,0
+1529584736006,1889,200 /api/user/asset/,200,OK,Thread Group 1-21,text,true,,2912,475,25,25,1889,0,333
+1529584736936,965,199 /api/user/status/,200,OK,Thread Group 1-2,text,true,,1077,476,25,25,965,0,0
+1529584736060,1850,200 /api/user/asset/,200,OK,Thread Group 1-25,text,true,,2911,475,25,25,1850,0,310
+1529584736629,1301,199 /api/user/status/,200,OK,Thread Group 1-3,text,true,,1077,476,25,25,1301,0,0
+1529584737225,740,199 /api/user/status/,200,OK,Thread Group 1-4,text,true,,1077,476,25,25,740,0,0
+1529584737181,790,199 /api/user/status/,200,OK,Thread Group 1-11,text,true,,1078,476,25,25,789,0,0
+1529584736978,1000,199 /api/user/status/,200,OK,Thread Group 1-5,text,true,,1077,476,25,25,999,0,0
+1529584736944,1035,199 /api/user/status/,200,OK,Thread Group 1-8,text,true,,1078,476,25,25,1035,0,0
+1529584737280,713,199 /api/user/status/,200,OK,Thread Group 1-9,text,true,,1078,476,25,25,713,0,0
+1529584737479,526,199 /api/user/status/,200,OK,Thread Group 1-12,text,true,,1078,476,25,25,526,0,0
+1529584737489,555,199 /api/user/status/,200,OK,Thread Group 1-7,text,true,,1077,476,25,25,555,0,0
+1529584737454,594,199 /api/user/status/,200,OK,Thread Group 1-13,text,true,,1078,476,25,25,594,0,0
+1529584737651,407,199 /api/user/status/,200,OK,Thread Group 1-18,text,true,,1078,476,25,25,407,0,0
+1529584737799,592,199 /api/user/status/,200,OK,Thread Group 1-10,text,true,,1078,476,25,25,591,0,265
+1529584737695,712,199 /api/user/status/,200,OK,Thread Group 1-15,text,true,,1078,476,25,25,712,0,320
+1529584737893,580,199 /api/user/status/,200,OK,Thread Group 1-16,text,true,,1078,476,25,25,580,0,263
+1529584737939,578,199 /api/user/status/,200,OK,Thread Group 1-14,text,true,,1078,476,25,25,578,0,268
+1529584737999,592,199 /api/user/status/,200,OK,Thread Group 1-20,text,true,,1078,476,25,25,592,0,273
+1529584738039,652,199 /api/user/status/,200,OK,Thread Group 1-17,text,true,,1078,476,25,25,652,0,294
+1529584738199,569,199 /api/user/status/,200,OK,Thread Group 1-22,text,true,,1078,476,25,25,569,0,264
+1529584738124,655,199 /api/user/status/,200,OK,Thread Group 1-19,text,true,,1078,476,25,25,655,0,307
+1529584738206,665,199 /api/user/status/,200,OK,Thread Group 1-23,text,true,,1078,476,25,25,665,0,307
+1529584738317,568,198 /api/user/total-matches/,200,OK,Thread Group 1-1,text,true,,269,483,25,25,568,0,267
+1529584738285,660,199 /api/user/status/,200,OK,Thread Group 1-24,text,true,,1078,476,25,25,660,0,306
+1529584738397,575,199 /api/user/status/,200,OK,Thread Group 1-21,text,true,,1078,476,25,25,575,0,266
+1529584738412,569,199 /api/user/status/,200,OK,Thread Group 1-25,text,true,,1078,476,25,25,569,0,260
+1529584738364,638,198 /api/user/total-matches/,200,OK,Thread Group 1-6,text,true,,269,483,25,25,638,0,304
+1529584738432,601,198 /api/user/total-matches/,200,OK,Thread Group 1-3,text,true,,269,483,25,25,601,0,290
+1529584738467,577,198 /api/user/total-matches/,200,OK,Thread Group 1-4,text,true,,269,483,25,25,577,0,269
+1529584738479,574,198 /api/user/total-matches/,200,OK,Thread Group 1-5,text,true,,269,483,25,25,574,0,259
+1529584738403,662,198 /api/user/total-matches/,200,OK,Thread Group 1-2,text,true,,269,483,25,25,662,0,313
+1529584738546,557,198 /api/user/total-matches/,200,OK,Thread Group 1-7,text,true,,269,483,25,25,557,0,264
+1529584738495,640,198 /api/user/total-matches/,200,OK,Thread Group 1-9,text,true,,269,483,25,25,640,0,300
+1529584738560,589,198 /api/user/total-matches/,200,OK,Thread Group 1-18,text,true,,269,483,25,25,589,0,266
+1529584738472,689,198 /api/user/total-matches/,200,OK,Thread Group 1-11,text,true,,269,483,25,25,689,0,326
+1529584738480,702,198 /api/user/total-matches/,200,OK,Thread Group 1-8,text,true,,269,483,25,25,702,0,326
+1529584738892,296,198 /api/user/total-matches/,200,OK,Thread Group 1-10,text,true,,269,483,25,25,296,0,0
+1529584738507,681,198 /api/user/total-matches/,200,OK,Thread Group 1-12,text,true,,269,483,25,25,681,0,314
+1529584738549,690,198 /api/user/total-matches/,200,OK,Thread Group 1-13,text,true,,269,483,25,25,690,0,329
+1529584738909,362,198 /api/user/total-matches/,200,OK,Thread Group 1-15,text,true,,269,483,25,25,362,0,0
+1529584738975,314,198 /api/user/total-matches/,200,OK,Thread Group 1-16,text,true,,269,483,25,25,314,0,0
+1529584739019,295,198 /api/user/total-matches/,200,OK,Thread Group 1-14,text,true,,269,483,25,25,295,0,0
+1529584739093,313,198 /api/user/total-matches/,200,OK,Thread Group 1-20,text,true,,269,483,25,25,313,0,0
+1529584739193,308,198 /api/user/total-matches/,200,OK,Thread Group 1-17,text,true,,269,483,25,25,308,0,0
+1529584739269,297,198 /api/user/total-matches/,200,OK,Thread Group 1-22,text,true,,269,483,25,25,297,0,0
+1529584739280,328,198 /api/user/total-matches/,200,OK,Thread Group 1-19,text,true,,269,483,25,25,328,0,0
+1529584739386,305,208 /api/user/asset-data/,200,OK,Thread Group 1-1,text,true,,2490,468,25,25,305,0,0
+1529584739371,346,198 /api/user/total-matches/,200,OK,Thread Group 1-23,text,true,,269,483,25,25,346,0,0
+1529584739472,299,198 /api/user/total-matches/,200,OK,Thread Group 1-21,text,true,,269,483,25,25,299,0,0
+1529584739482,292,198 /api/user/total-matches/,200,OK,Thread Group 1-25,text,true,,269,483,25,25,292,0,0
+1529584739445,331,198 /api/user/total-matches/,200,OK,Thread Group 1-24,text,true,,269,483,25,25,331,0,0
+1529584739503,336,208 /api/user/asset-data/,200,OK,Thread Group 1-6,text,true,,2490,468,25,25,336,0,0
+1529584739545,304,208 /api/user/asset-data/,200,OK,Thread Group 1-4,text,true,,2490,468,25,25,304,0,0
+1529584739554,303,208 /api/user/asset-data/,200,OK,Thread Group 1-5,text,true,,2490,468,25,25,303,0,0
+1529584739534,329,208 /api/user/asset-data/,200,OK,Thread Group 1-3,text,true,,2490,468,25,25,329,0,0
+1529584739604,301,208 /api/user/asset-data/,200,OK,Thread Group 1-7,text,true,,2490,468,25,25,301,0,0
+1529584739565,369,208 /api/user/asset-data/,200,OK,Thread Group 1-2,text,true,,2490,468,25,25,369,0,0
+1529584739650,307,208 /api/user/asset-data/,200,OK,Thread Group 1-18,text,true,,2490,468,25,25,307,0,0
+1529584739689,299,208 /api/user/asset-data/,200,OK,Thread Group 1-10,text,true,,2490,468,25,25,299,0,0
+1529584739690,355,208 /api/user/asset-data/,200,OK,Thread Group 1-12,text,true,,2490,468,25,25,355,0,0
+1529584739661,385,208 /api/user/asset-data/,200,OK,Thread Group 1-11,text,true,,2490,468,25,25,385,0,0
+1529584739682,389,208 /api/user/asset-data/,200,OK,Thread Group 1-8,text,true,,2490,468,25,25,389,0,0
+1529584739790,294,208 /api/user/asset-data/,200,OK,Thread Group 1-16,text,true,,2490,468,25,25,294,0,0
+1529584739814,317,208 /api/user/asset-data/,200,OK,Thread Group 1-14,text,true,,2490,468,25,25,317,0,0
+1529584739906,298,208 /api/user/asset-data/,200,OK,Thread Group 1-20,text,true,,2490,468,25,25,298,0,0
+1529584740002,333,208 /api/user/asset-data/,200,OK,Thread Group 1-17,text,true,,2490,468,25,25,333,0,0
+1529584740067,341,208 /api/user/asset-data/,200,OK,Thread Group 1-22,text,true,,2490,468,25,25,341,0,0
+1529584739771,669,208 /api/user/asset-data/,200,OK,Thread Group 1-15,text,true,,2490,468,25,25,669,0,315
+1529584740109,343,208 /api/user/asset-data/,200,OK,Thread Group 1-19,text,true,,2490,468,25,25,343,0,0
+1529584740272,299,208 /api/user/asset-data/,200,OK,Thread Group 1-21,text,true,,2490,468,25,25,299,0,0
+1529584740275,301,208 /api/user/asset-data/,200,OK,Thread Group 1-25,text,true,,2490,468,25,25,301,0,0
+1529584740277,336,208 /api/user/asset-data/,200,OK,Thread Group 1-24,text,true,,2490,468,25,25,336,0,0
+1529584740218,563,208 /api/user/asset-data/,200,OK,Thread Group 1-23,text,true,,2490,468,25,25,563,0,268
+1529584739636,1564,208 /api/user/asset-data/,200,OK,Thread Group 1-9,text,true,,2490,468,25,25,843,0,0
+1529584739740,1653,208 /api/user/asset-data/,200,OK,Thread Group 1-13,text,true,,2490,468,25,25,859,0,0
+1529584740692,737,216 /api/user/asset/,201,Created,Thread Group 1-1,text,true,,2986,1839,25,25,737,0,315
+1529584740850,660,216 /api/user/asset/,201,Created,Thread Group 1-4,text,true,,2986,1839,25,25,660,0,267
+1529584740864,720,216 /api/user/asset/,201,Created,Thread Group 1-3,text,true,,2986,1839,25,25,720,0,279
+1529584740841,760,216 /api/user/asset/,201,Created,Thread Group 1-6,text,true,,2986,1839,25,25,760,0,313
+1529584740935,693,216 /api/user/asset/,201,Created,Thread Group 1-2,text,true,,2986,1839,25,25,693,0,273
+1529584740957,727,216 /api/user/asset/,201,Created,Thread Group 1-18,text,true,,2986,1839,25,25,727,0,260
+1529584740906,840,216 /api/user/asset/,201,Created,Thread Group 1-7,text,true,,2986,1839,25,25,840,0,317
+1529584740989,758,216 /api/user/asset/,201,Created,Thread Group 1-10,text,true,,2986,1839,25,25,758,0,265
+1529584741048,760,216 /api/user/asset/,201,Created,Thread Group 1-11,text,true,,2986,1839,25,25,760,0,263
+1529584741085,769,216 /api/user/asset/,201,Created,Thread Group 1-16,text,true,,2986,1839,25,25,769,0,265
+1529584741049,806,216 /api/user/asset/,201,Created,Thread Group 1-12,text,true,,2986,1839,25,25,806,0,292
+1529584741072,924,216 /api/user/asset/,201,Created,Thread Group 1-8,text,true,,2986,1839,25,25,924,0,275
+1529584741440,559,216 /api/user/asset/,201,Created,Thread Group 1-15,text,true,,2986,1839,25,25,559,0,0
+1529584741132,868,216 /api/user/asset/,201,Created,Thread Group 1-14,text,true,,2986,1839,25,25,868,0,283
+1529584741205,916,216 /api/user/asset/,201,Created,Thread Group 1-20,text,true,,2987,1839,25,25,916,0,311
+1529584741335,787,216 /api/user/asset/,201,Created,Thread Group 1-17,text,true,,2986,1839,25,25,787,0,315
+1529584741409,806,216 /api/user/asset/,201,Created,Thread Group 1-22,text,true,,2987,1839,25,25,806,0,308
+1529584741782,469,216 /api/user/asset/,201,Created,Thread Group 1-23,text,true,,2987,1839,25,25,469,0,0
+1529584741453,801,216 /api/user/asset/,201,Created,Thread Group 1-19,text,true,,2987,1839,25,25,801,0,301
+1529584741577,735,216 /api/user/asset/,201,Created,Thread Group 1-25,text,true,,2987,1839,25,25,735,0,282
+1529584742010,310,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-4,text,true,,502,434,25,25,310,0,0
+1529584741930,405,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-1,text,true,,502,434,25,25,405,0,0
+1529584741572,789,216 /api/user/asset/,201,Created,Thread Group 1-21,text,true,,2987,1839,25,25,789,0,306
+1529584741613,752,216 /api/user/asset/,201,Created,Thread Group 1-24,text,true,,2987,1839,25,25,752,0,313
+1529584742084,282,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-3,text,true,,502,434,25,25,282,0,0
+1529584742129,268,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-2,text,true,,502,434,25,25,268,0,0
+1529584742102,314,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-6,text,true,,502,434,25,25,314,0,0
+1529584742185,263,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-18,text,true,,502,434,25,25,263,0,0
+1529584742247,268,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-10,text,true,,502,434,25,25,268,0,0
+1529584742247,318,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-7,text,true,,502,434,25,25,318,0,0
+1529584742309,266,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-11,text,true,,502,434,25,25,266,0,0
+1529584740858,1743,216 /api/user/asset/,201,Created,Thread Group 1-5,text,true,,2989,1839,25,25,1743,0,1295
+1529584742355,268,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-16,text,true,,502,434,25,25,268,0,0
+1529584742355,288,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-12,text,true,,502,434,25,25,288,0,0
+1529584742497,279,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-8,text,true,,502,434,25,25,279,0,0
+1529584742501,286,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-14,text,true,,502,434,25,25,286,0,0
+1529584742201,691,216 /api/user/asset/,201,Created,Thread Group 1-9,text,true,,2989,1839,25,25,691,0,298
+1529584742622,303,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-20,text,true,,502,434,25,25,303,0,0
+1529584742622,303,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-17,text,true,,502,434,25,25,303,0,0
+1529584742715,311,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-22,text,true,,502,434,25,25,311,0,0
+1529584742394,638,216 /api/user/asset/,201,Created,Thread Group 1-13,text,true,,2989,1839,25,25,638,0,270
+1529584742755,300,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-19,text,true,,502,434,25,25,300,0,0
+1529584742813,284,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-25,text,true,,502,434,25,25,284,0,0
+1529584742500,601,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-15,text,true,,502,434,25,25,601,0,299
+1529584742820,306,219 /api/user/status/,200,OK,Thread Group 1-4,text,true,,1077,476,25,25,306,0,0
+1529584742862,293,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-21,text,true,,502,434,25,25,293,0,0
+1529584742866,312,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-24,text,true,,502,434,25,25,312,0,0
+1529584742897,317,219 /api/user/status/,200,OK,Thread Group 1-2,text,true,,1077,476,25,25,317,0,0
+1529584742948,303,219 /api/user/status/,200,OK,Thread Group 1-18,text,true,,1078,476,25,25,303,0,0
+1529584742753,639,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-23,text,true,,502,434,25,25,639,0,320
+1529584742835,588,219 /api/user/status/,200,OK,Thread Group 1-1,text,true,,1077,476,25,25,588,0,268
+1529584742866,617,219 /api/user/status/,200,OK,Thread Group 1-3,text,true,,1077,476,25,25,617,0,283
+1529584742916,643,219 /api/user/status/,200,OK,Thread Group 1-6,text,true,,1077,476,25,25,643,0,294
+1529584743016,677,219 /api/user/status/,200,OK,Thread Group 1-10,text,true,,1078,476,25,25,677,0,293
+1529584743076,623,219 /api/user/status/,200,OK,Thread Group 1-11,text,true,,1078,476,25,25,623,0,279
+1529584743123,596,219 /api/user/status/,200,OK,Thread Group 1-16,text,true,,1078,476,25,25,596,0,261
+1529584743392,329,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-9,text,true,,502,435,25,25,329,0,0
+1529584743065,685,219 /api/user/status/,200,OK,Thread Group 1-7,text,true,,1077,476,25,25,685,0,304
+1529584743101,652,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-5,text,true,,502,435,25,25,652,0,312
+1529584743144,658,219 /api/user/status/,200,OK,Thread Group 1-12,text,true,,1078,476,25,25,658,0,266
+1529584743532,273,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-13,text,true,,502,435,25,25,273,0,0
+1529584743287,586,219 /api/user/status/,200,OK,Thread Group 1-14,text,true,,1078,476,25,25,586,0,271
+1529584743276,648,219 /api/user/status/,200,OK,Thread Group 1-8,text,true,,1078,476,25,25,648,0,291
+1529584743601,343,219 /api/user/status/,200,OK,Thread Group 1-15,text,true,,1078,476,25,25,343,0,0
+1529584743426,586,219 /api/user/status/,200,OK,Thread Group 1-20,text,true,,1078,476,25,25,586,0,271
+1529584743426,679,219 /api/user/status/,200,OK,Thread Group 1-17,text,true,,1078,476,25,25,679,0,313
+1529584743527,578,219 /api/user/status/,200,OK,Thread Group 1-22,text,true,,1078,476,25,25,578,0,268
+1529584743555,642,219 /api/user/status/,200,OK,Thread Group 1-19,text,true,,1078,476,25,25,642,0,297
+1529584743626,574,218 /api/user/total-matches/,200,OK,Thread Group 1-4,text,true,,269,483,25,25,574,0,267
+1529584743923,308,218 /api/user/total-matches/,200,OK,Thread Group 1-1,text,true,,269,483,25,25,308,0,0
+1529584743656,576,219 /api/user/status/,200,OK,Thread Group 1-21,text,true,,1078,476,25,25,576,0,261
+1529584743892,358,219 /api/user/status/,200,OK,Thread Group 1-23,text,true,,1078,476,25,25,358,0,0
+1529584743678,590,219 /api/user/status/,200,OK,Thread Group 1-24,text,true,,1078,476,25,25,590,0,262
+1529584743714,579,218 /api/user/total-matches/,200,OK,Thread Group 1-2,text,true,,269,483,25,25,579,0,273
+1529584743597,716,219 /api/user/status/,200,OK,Thread Group 1-25,text,true,,1078,476,25,25,716,0,323
+1529584743984,335,218 /api/user/total-matches/,200,OK,Thread Group 1-3,text,true,,269,483,25,25,335,0,0
+1529584743752,640,218 /api/user/total-matches/,200,OK,Thread Group 1-18,text,true,,269,483,25,25,640,0,294
+1529584744059,334,218 /api/user/total-matches/,200,OK,Thread Group 1-6,text,true,,269,483,25,25,334,0,0
+1529584744199,315,218 /api/user/total-matches/,200,OK,Thread Group 1-11,text,true,,269,483,25,25,315,0,0
+1529584744220,295,218 /api/user/total-matches/,200,OK,Thread Group 1-16,text,true,,269,483,25,25,295,0,0
+1529584744194,332,218 /api/user/total-matches/,200,OK,Thread Group 1-10,text,true,,269,483,25,25,332,0,0
+1529584744251,348,218 /api/user/total-matches/,200,OK,Thread Group 1-7,text,true,,269,483,25,25,348,0,0
+1529584744303,307,218 /api/user/total-matches/,200,OK,Thread Group 1-12,text,true,,269,483,25,25,306,0,0
+1529584744254,365,219 /api/user/status/,200,OK,Thread Group 1-5,text,true,,1077,476,25,25,365,0,0
+1529584744305,315,219 /api/user/status/,200,OK,Thread Group 1-13,text,true,,1078,476,25,25,315,0,0
+1529584744374,299,218 /api/user/total-matches/,200,OK,Thread Group 1-14,text,true,,269,483,25,25,299,0,0
+1529584744424,327,218 /api/user/total-matches/,200,OK,Thread Group 1-8,text,true,,269,483,25,25,327,0,0
+1529584744444,326,218 /api/user/total-matches/,200,OK,Thread Group 1-15,text,true,,269,483,25,25,326,0,0
+1529584744512,305,218 /api/user/total-matches/,200,OK,Thread Group 1-20,text,true,,269,483,25,25,305,0,0
+1529584744221,613,219 /api/user/status/,200,OK,Thread Group 1-9,text,true,,1078,476,25,25,613,0,284
+1529584744606,312,218 /api/user/total-matches/,200,OK,Thread Group 1-22,text,true,,269,483,25,25,312,0,0
+1529584744605,346,218 /api/user/total-matches/,200,OK,Thread Group 1-17,text,true,,269,483,25,25,346,0,0
+1529584744698,333,218 /api/user/total-matches/,200,OK,Thread Group 1-19,text,true,,269,483,25,25,333,0,0
+1529584744733,316,218 /api/user/total-matches/,200,OK,Thread Group 1-21,text,true,,269,483,25,25,316,0,0
+1529584744768,345,218 /api/user/total-matches/,200,OK,Thread Group 1-24,text,true,,269,483,25,25,345,0,0
+1529584744750,383,218 /api/user/total-matches/,200,OK,Thread Group 1-23,text,true,,269,483,25,25,383,0,0
+1529584744700,629,221 /api/user/asset/,200,OK,Thread Group 1-4,text,true,,5757,475,25,25,629,0,0
+1529584744732,637,221 /api/user/asset/,200,OK,Thread Group 1-1,text,true,,5771,475,25,25,637,0,0
+1529584744814,576,218 /api/user/total-matches/,200,OK,Thread Group 1-25,text,true,,269,483,25,25,576,0,0
+1529584744794,717,221 /api/user/asset/,200,OK,Thread Group 1-2,text,true,,5760,475,25,25,717,0,0
+1529584744820,881,221 /api/user/asset/,200,OK,Thread Group 1-3,text,true,,5767,475,25,25,881,0,0
+1529584744892,818,221 /api/user/asset/,200,OK,Thread Group 1-18,text,true,,3138,475,25,25,818,0,0
+1529584744893,831,221 /api/user/asset/,200,OK,Thread Group 1-6,text,true,,5757,475,25,25,831,0,0
+1529584745016,878,221 /api/user/asset/,200,OK,Thread Group 1-16,text,true,,3155,475,25,25,878,0,0
+1529584745110,785,221 /api/user/asset/,200,OK,Thread Group 1-12,text,true,,3142,475,25,25,785,0,0
+1529584745014,883,221 /api/user/asset/,200,OK,Thread Group 1-11,text,true,,3140,475,25,25,883,0,0
+1529584745318,791,221 /api/user/asset/,200,OK,Thread Group 1-20,text,true,,3142,475,25,25,791,0,0
+1529584745334,818,218 /api/user/total-matches/,200,OK,Thread Group 1-9,text,true,,269,483,25,25,818,0,0
+1529584745174,1059,221 /api/user/asset/,200,OK,Thread Group 1-14,text,true,,5763,475,25,25,1059,0,0
+1529584745251,1012,221 /api/user/asset/,200,OK,Thread Group 1-8,text,true,,5758,475,25,25,1012,0,0
+1529584745120,1150,218 /api/user/total-matches/,200,OK,Thread Group 1-5,text,true,,269,483,25,25,1150,0,265
+1529584745026,1473,221 /api/user/asset/,200,OK,Thread Group 1-10,text,true,,5755,475,25,25,1473,0,315
+1529584745418,1082,221 /api/user/asset/,200,OK,Thread Group 1-22,text,true,,3143,475,25,25,1082,0,0
+1529584745121,1386,218 /api/user/total-matches/,200,OK,Thread Group 1-13,text,true,,269,483,25,25,1386,0,296
+1529584745105,1492,221 /api/user/asset/,200,OK,Thread Group 1-7,text,true,,5753,475,25,25,1492,0,262
+1529584745550,1150,221 /api/user/asset/,200,OK,Thread Group 1-21,text,true,,3142,475,25,25,1150,0,0
+1529584745270,1431,221 /api/user/asset/,200,OK,Thread Group 1-15,text,true,,3141,475,25,25,1431,0,265
+1529584745532,1295,221 /api/user/asset/,200,OK,Thread Group 1-19,text,true,,3145,475,25,25,1295,0,0
+1529584745452,1449,221 /api/user/asset/,200,OK,Thread Group 1-17,text,true,,3142,475,25,25,1449,0,270
+1529584745613,1301,221 /api/user/asset/,200,OK,Thread Group 1-24,text,true,,3141,475,25,25,1301,0,0
+1529584745829,1181,220 /api/user/asset-archive/,200,OK,Thread Group 1-4,text,true,,302,483,25,25,1181,0,319
+1529584745870,1150,220 /api/user/asset-archive/,200,OK,Thread Group 1-1,text,true,,302,483,25,25,1149,0,310
+1529584745633,1388,221 /api/user/asset/,200,OK,Thread Group 1-23,text,true,,3154,475,25,25,1388,0,265
+1529584746011,1019,220 /api/user/asset-archive/,200,OK,Thread Group 1-2,text,true,,302,483,25,25,1019,0,266
+1529584746225,830,220 /api/user/asset-archive/,200,OK,Thread Group 1-6,text,true,,302,483,25,25,830,0,264
+1529584746210,848,220 /api/user/asset-archive/,200,OK,Thread Group 1-18,text,true,,302,483,25,25,848,0,272
+1529584746396,695,220 /api/user/asset-archive/,200,OK,Thread Group 1-12,text,true,,302,483,25,25,695,0,267
+1529584746201,920,220 /api/user/asset-archive/,200,OK,Thread Group 1-3,text,true,,302,483,25,25,920,0,305
+1529584745891,1244,221 /api/user/asset/,200,OK,Thread Group 1-25,text,true,,3141,475,25,25,1244,0,267
+1529584746394,747,220 /api/user/asset-archive/,200,OK,Thread Group 1-16,text,true,,302,483,25,25,746,0,308
+1529584746397,766,220 /api/user/asset-archive/,200,OK,Thread Group 1-11,text,true,,302,483,25,25,766,0,320
+1529584746610,649,220 /api/user/asset-archive/,200,OK,Thread Group 1-20,text,true,,302,483,25,25,648,0,307
+1529584747000,350,220 /api/user/asset-archive/,200,OK,Thread Group 1-10,text,true,,302,483,25,25,350,0,0
+1529584746770,636,221 /api/user/asset/,200,OK,Thread Group 1-5,text,true,,5760,475,25,25,636,0,0
+1529584746763,683,220 /api/user/asset-archive/,200,OK,Thread Group 1-8,text,true,,302,483,25,25,683,0,271
+1529584746734,756,220 /api/user/asset-archive/,200,OK,Thread Group 1-14,text,true,,302,483,25,25,756,0,299
+1529584747098,402,220 /api/user/asset-archive/,200,OK,Thread Group 1-7,text,true,,302,483,25,25,402,0,0
+1529584747007,529,221 /api/user/asset/,200,OK,Thread Group 1-13,text,true,,3144,475,25,25,529,0,0
+1529584747202,335,220 /api/user/asset-archive/,200,OK,Thread Group 1-15,text,true,,302,483,25,25,335,0,0
+1529584746652,890,221 /api/user/asset/,200,OK,Thread Group 1-9,text,true,,5760,475,25,25,890,0,275
+1529584747031,530,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-2,bin,true,,11246,413,25,25,530,0,262
+1529584747021,543,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-1,bin,true,,11246,413,25,25,543,0,269
+1529584747059,558,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-18,bin,true,,11246,413,25,25,558,0,275
+1529584747011,624,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-4,bin,true,,11246,413,25,25,624,0,313
+1529584747001,637,220 /api/user/asset-archive/,200,OK,Thread Group 1-22,text,true,,302,483,25,25,637,0,297
+1529584747091,549,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-12,bin,true,,11246,413,25,25,549,0,272
+1529584747056,592,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-6,bin,true,,11246,413,25,25,592,0,293
+1529584747401,297,220 /api/user/asset-archive/,200,OK,Thread Group 1-17,text,true,,302,483,25,25,297,0,0
+1529584747141,559,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-16,bin,true,,11246,413,25,25,558,0,282
+1529584747164,547,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-11,bin,true,,11246,413,25,25,547,0,275
+1529584747122,601,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-3,bin,true,,11246,413,25,25,600,0,300
+1529584747201,558,220 /api/user/asset-archive/,200,OK,Thread Group 1-21,text,true,,302,483,25,25,558,0,266
+1529584747259,556,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-20,bin,true,,11246,413,25,25,556,0,276
+1529584747522,293,220 /api/user/asset-archive/,200,OK,Thread Group 1-23,text,true,,302,483,25,25,293,0,0
+1529584747561,269,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-2,bin,true,,20470,413,25,25,267,0,0
+1529584747564,274,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-1,bin,true,,20470,413,25,25,273,0,0
+1529584747618,299,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-18,bin,true,,20470,413,25,25,298,0,0
+1529584747327,593,220 /api/user/asset-archive/,200,OK,Thread Group 1-19,text,true,,302,483,25,25,593,0,285
+1529584747351,571,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-10,bin,true,,11246,413,25,25,571,0,277
+1529584747641,289,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-12,bin,true,,20470,413,25,25,288,0,0
+1529584747649,286,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-6,bin,true,,20470,413,25,25,285,0,0
+1529584747635,304,220 /api/user/asset-archive/,200,OK,Thread Group 1-25,text,true,,302,483,25,25,304,0,0
+1529584747636,308,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-4,bin,true,,20470,413,25,25,307,0,0
+1529584747700,278,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-16,bin,true,,20470,413,25,25,277,0,0
+1529584747711,273,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-11,bin,true,,20470,413,25,25,272,0,0
+1529584747491,544,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-14,bin,true,,11246,413,25,25,544,0,270
+1529584747501,538,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-7,bin,true,,11246,413,25,25,538,0,267
+1529584747447,601,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-8,bin,true,,11246,413,25,25,601,0,300
+1529584747414,657,220 /api/user/asset-archive/,200,OK,Thread Group 1-24,text,true,,302,483,25,25,657,0,315
+1529584747538,541,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-15,bin,true,,11246,413,25,25,541,0,269
+1529584747815,282,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-20,bin,true,,20470,413,25,25,281,0,0
+1529584747830,270,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-2,bin,true,,15882,413,25,25,269,0,0
+1529584747839,272,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-1,bin,true,,15882,413,25,25,272,0,0
+1529584747918,281,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-18,bin,true,,15882,413,25,25,280,0,0
+1529584747923,280,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-10,bin,true,,20470,413,25,25,279,0,0
+1529584747931,276,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-12,bin,true,,15882,413,25,25,276,0,0
+1529584747935,291,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-6,bin,true,,15882,413,25,25,291,0,0
+1529584747639,593,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-22,bin,true,,11246,413,25,25,593,0,291
+1529584747978,277,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-16,bin,true,,15882,413,25,25,277,0,0
+1529584747945,311,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-4,bin,true,,15882,413,25,25,310,0,0
+1529584747985,273,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-11,bin,true,,15882,413,25,25,272,0,0
+1529584747699,570,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-17,bin,true,,11246,413,25,25,569,0,282
+1529584747760,528,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-21,bin,true,,11246,413,25,25,528,0,262
+1529584748035,277,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-14,bin,true,,20470,413,25,25,275,0,0
+1529584748039,278,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-7,bin,true,,20470,413,25,25,277,0,0
+1529584747816,529,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-23,bin,true,,11246,413,25,25,529,0,262
+1529584748043,303,220 /api/user/asset-archive/,200,OK,Thread Group 1-9,text,true,,302,483,25,25,303,0,0
+1529584748048,305,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-8,bin,true,,20470,413,25,25,304,0,0
+1529584748079,274,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-15,bin,true,,20470,413,25,25,273,0,0
+1529584748096,282,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-20,bin,true,,15882,413,25,25,281,0,0
+1529584747920,539,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-19,bin,true,,11246,413,25,25,539,0,267
+1529584747940,537,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-25,bin,true,,11246,413,25,25,537,0,266
+1529584748202,279,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-10,bin,true,,15882,413,25,25,278,0,0
+1529584747906,617,220 /api/user/asset-archive/,200,OK,Thread Group 1-5,text,true,,302,483,25,25,617,0,295
+1529584748231,296,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-22,bin,true,,20470,413,25,25,295,0,0
+1529584748288,267,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-21,bin,true,,20470,413,25,25,266,0,0
+1529584748268,289,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-17,bin,true,,20470,413,25,25,288,0,0
+1529584748311,275,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-14,bin,true,,15882,413,25,25,275,0,0
+1529584748036,553,220 /api/user/asset-archive/,200,OK,Thread Group 1-13,text,true,,302,483,25,25,553,0,262
+1529584748316,273,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-7,bin,true,,15882,413,25,25,272,0,0
+1529584747723,881,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-3,bin,true,,20470,413,25,25,296,0,0
+1529584748345,268,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-23,bin,true,,20470,413,25,25,265,0,0
+1529584748353,274,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-15,bin,true,,15882,413,25,25,273,0,0
+1529584748353,303,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-8,bin,true,,15882,413,25,25,302,0,0
+1529584748070,611,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-24,bin,true,,11246,413,25,25,611,0,304
+1529584748459,279,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-19,bin,true,,20470,413,25,25,278,0,0
+1529584748477,281,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-25,bin,true,,20470,413,25,25,279,0,0
+1529584748556,268,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-21,bin,true,,15882,413,25,25,267,0,0
+1529584748558,288,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-17,bin,true,,15882,413,25,25,287,0,0
+1529584748614,266,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-23,bin,true,,15882,413,25,25,266,0,0
+1529584748603,300,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-3,bin,true,,15882,413,25,25,299,0,0
+1529584748345,638,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-9,bin,true,,11246,413,25,25,638,0,317
+1529584748738,273,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-19,bin,true,,15882,413,25,25,273,0,0
+1529584748758,271,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-25,bin,true,,15882,413,25,25,271,0,0
+1529584748523,570,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-5,bin,true,,11246,413,25,25,570,0,285
+1529584748588,564,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-13,bin,true,,11246,413,25,25,564,0,280
+1529584748984,320,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-9,bin,true,,20470,413,25,25,319,0,0
+1529584749152,286,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-13,bin,true,,20470,413,25,25,285,0,0
+1529584749305,319,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-9,bin,true,,15882,413,25,25,318,0,0
+1529584749439,286,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-13,bin,true,,15882,413,25,25,285,0,0
+1529584749093,641,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-5,bin,true,,20470,413,25,25,288,0,0
+1529584749735,287,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-5,bin,true,,15882,413,25,25,287,0,0
+1529584748682,1535,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-24,bin,true,,20470,413,25,25,1222,0,0
+1529584748527,1770,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-22,bin,true,,15882,413,25,25,301,0,0
+1529584750218,919,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-24,bin,true,,15882,413,25,25,617,0,305
+1529584748698,30798,222 /api/match/match_asset/,502,Bad Gateway,Thread Group 1-18,text,false,,750,494,25,25,30798,0,269
+1529584748611,30901,222 /api/match/match_asset/,502,Bad Gateway,Thread Group 1-1,text,false,,750,494,25,25,30901,0,291
+1529584748599,30959,222 /api/match/match_asset/,500,Internal Server Error,Thread Group 1-2,text,false,,263,494,25,25,30959,0,265
+1529584748725,60565,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-6,text,false,,765,494,25,25,60565,0,268
+1529584748757,60544,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-11,text,false,,765,494,25,25,60544,0,272
+1529584748755,60551,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-4,text,false,,765,494,25,25,60551,0,275
+1529584748706,60619,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-12,text,false,,765,494,25,25,60619,0,295
+1529584748755,60628,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-16,text,false,,765,494,25,25,60628,0,304
+1529584748878,60605,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-20,text,false,,765,494,25,25,60605,0,304
+1529584748981,60532,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-10,text,false,,765,494,25,25,60532,0,265
+1529584749087,60539,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-14,text,false,,765,494,25,25,60539,0,269
+1529584749089,60548,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-7,text,false,,765,494,25,25,60548,0,273
+1529584749127,60545,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-15,text,false,,765,494,25,25,60545,0,272
+1529584749156,60531,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-8,text,false,,765,494,25,25,60531,0,265
+1529584749346,60551,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-17,text,false,,765,494,25,25,60550,0,275
+1529584749381,60537,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-23,text,false,,765,494,25,25,60537,0,267
+1529584749324,60609,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-21,text,false,,765,494,25,25,60609,0,304
+1529584749403,60562,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-3,text,false,,765,494,25,25,60562,0,279
+1529584749530,60535,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-25,text,false,,765,494,25,25,60535,0,268
+1529584749512,60589,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-19,text,false,,765,494,25,25,60589,0,293
+1529584750124,60619,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-9,text,false,,765,495,25,25,60619,0,316
+1529584750225,60592,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-13,text,false,,765,495,25,25,60592,0,298
+1529584750522,60535,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-5,text,false,,765,495,25,25,60535,0,267
+1529584750797,60557,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-22,text,false,,765,494,25,25,60557,0,278
+1529584751638,60599,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-24,text,false,,765,494,25,25,60599,0,302
+1529584780513,60573,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-1,text,false,,765,494,25,25,60573,0,275
+1529584780559,60560,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-2,text,false,,765,494,25,25,60560,0,279
+1529584780497,60631,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-18,text,false,,765,494,25,25,60631,0,317
+1529584810308,60540,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-4,text,false,,765,494,25,25,60540,0,263
+1529584810292,60557,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-6,text,false,,765,494,25,25,60557,0,264
+1529584810303,60553,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-11,text,false,,765,494,25,25,60553,0,279
+1529584810327,60553,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-12,text,false,,765,494,25,25,60553,0,276
+1529584810385,60523,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-16,text,false,,765,494,25,25,60523,0,262
+1529584810515,60528,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-10,text,false,,765,494,25,25,60528,0,264
+1529584810485,60623,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-20,text,false,,765,494,25,25,60623,0,312
+1529584810628,60542,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-14,text,false,,765,494,25,25,60542,0,270
+1529584810674,60527,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-15,text,false,,765,494,25,25,60527,0,263
+1529584810639,60606,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-7,text,false,,765,494,25,25,60605,0,313
+1529584810689,60610,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-8,text,false,,765,494,25,25,60610,0,303
+1529584810935,60536,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-21,text,false,,765,494,25,25,60536,0,267
+1529584810969,60528,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-3,text,false,,765,494,25,25,60528,0,263
+1529584810898,60600,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-17,text,false,,765,494,25,25,60600,0,310
+1529584810919,60583,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-23,text,false,,765,494,25,25,60583,0,303
+1529584811067,60644,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-25,text,false,,765,494,25,25,60644,0,331
+1529584811103,60610,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-19,text,false,,765,494,25,25,60610,0,310
+1529584811745,60559,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-9,text,false,,765,495,25,25,60559,0,279
+1529584811819,60599,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-13,text,false,,765,495,25,25,60599,0,304
+1529584812059,60550,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-5,text,false,,765,495,25,25,60550,0,275
+1529584812356,60590,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-22,text,false,,765,494,25,25,60590,0,311
+1529584813238,60638,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-24,text,false,,765,494,25,25,60638,0,322
+1529584842120,60526,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-2,text,false,,765,494,25,25,60526,0,262
+1529584842087,60564,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-1,text,false,,765,494,25,25,60564,0,268
+1529584842129,60535,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-18,text,false,,765,494,25,25,60535,0,266
+1529584871850,60559,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-4,text,false,,765,494,25,25,60559,0,265
+1529584871858,60555,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-11,text,false,,765,494,25,25,60555,0,265
+1529584871850,60569,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-6,text,false,,765,494,25,25,60569,0,278
+1529584871882,60569,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-12,text,false,,765,494,25,25,60569,0,284
+1529584871909,60556,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-16,text,false,,765,494,25,25,60556,0,277
+1529584872044,60580,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-10,text,false,,765,494,25,25,60580,0,289
+1529584872109,60536,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-20,text,false,,765,494,25,25,60536,0,268
+1529584872171,60526,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-14,text,false,,765,494,25,25,60526,0,262
+1529584872202,60530,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-15,text,false,,765,494,25,25,60530,0,265
+1529584872246,60530,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-7,text,false,,765,494,25,25,60530,0,264
+1529584872300,60527,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-8,text,false,,765,494,25,25,60527,0,263
+1529584872472,60544,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-21,text,false,,765,494,25,25,60544,0,272
+1529584872498,60557,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-3,text,false,,765,494,25,25,60556,0,278
+1529584872499,60579,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-17,text,false,,765,494,25,25,60579,0,290
+1529584872502,60604,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-23,text,false,,765,494,25,25,60604,0,304
+1529584872714,60548,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-19,text,false,,765,494,25,25,60548,0,276
+1529584872712,60627,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-25,text,false,,765,494,25,25,60627,0,313
+1529584873306,60573,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-9,text,false,,765,495,25,25,60573,0,279
+1529584873419,60570,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-13,text,false,,765,495,25,25,60570,0,274
+1529584873610,60585,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-5,text,false,,765,495,25,25,60585,0,292
+1529584873948,60535,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-22,text,false,,765,494,25,25,60535,0,265
+1529584874878,60545,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-24,text,false,,765,494,25,25,60545,0,271
+1529584903653,60540,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-1,text,false,,765,494,25,25,60540,0,273
+1529584903648,60588,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-2,text,false,,765,494,25,25,60588,0,289
+1529584903666,60597,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-18,text,false,,765,494,25,25,60597,0,290
+1529584933416,60581,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-11,text,false,,765,494,25,25,60581,0,287
+1529584933412,60588,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-4,text,false,,765,494,25,25,60588,0,287
+1529584933421,60591,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-6,text,false,,765,494,25,25,60591,0,286
+1529584933470,60588,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-16,text,false,,765,494,25,25,60588,0,300
+1529584933454,60614,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-12,text,false,,765,494,25,25,60614,0,314
+1529584933626,60575,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-10,text,false,,765,494,25,25,60575,0,295
+1529584933648,60617,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-20,text,false,,765,494,25,25,60617,0,313
+1529584933735,60572,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-15,text,false,,765,494,25,25,60572,0,281
+1529584933699,60610,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-14,text,false,,765,494,25,25,60610,0,310
+1529584933778,60542,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-7,text,false,,765,494,25,25,60542,0,273
+1529584933830,60606,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-8,text,false,,765,494,25,25,60606,0,303
+1529584934018,60595,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-21,text,false,,765,494,25,25,60595,0,290
+1529584934057,60583,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-3,text,false,,765,494,25,25,60583,0,288
+1529584934109,60533,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-23,text,false,,765,494,25,25,60533,0,266
+1529584934080,60606,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-17,text,false,,765,494,25,25,60606,0,298
+1529584934264,60584,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-19,text,false,,765,494,25,25,60584,0,289
+1529584934342,60561,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-25,text,false,,765,494,25,25,60561,0,282
+1529584934881,60647,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-9,text,false,,765,495,25,25,60646,0,315
+1529584934991,60543,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-13,text,false,,765,495,25,25,60543,0,274
+1529584935197,60589,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-5,text,false,,765,495,25,25,60589,0,288
+1529584935485,60527,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-22,text,false,,765,494,25,25,60527,0,266
+1529584936425,60601,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-24,text,false,,765,494,25,25,60601,0,298
+1529584964694,41769,196 /api/user/login/,201,Created,Thread Group 1-1,text,true,,703,534,25,25,41769,0,267
+1529584964737,41816,196 /api/user/login/,201,Created,Thread Group 1-2,text,true,,703,534,25,25,41816,0,263
+1529584964764,41826,196 /api/user/login/,201,Created,Thread Group 1-18,text,true,,703,534,25,25,41826,0,297
+1529584994500,12142,196 /api/user/login/,201,Created,Thread Group 1-4,text,true,,704,534,25,25,12142,0,265
+1529584994512,12167,196 /api/user/login/,201,Created,Thread Group 1-6,text,true,,704,534,25,25,12167,0,264
+1529584994568,12245,196 /api/user/login/,201,Created,Thread Group 1-12,text,true,,704,534,25,25,12245,0,262
+1529584994497,12318,196 /api/user/login/,201,Created,Thread Group 1-11,text,true,,704,534,25,25,12318,0,275
+1529584994701,12209,196 /api/user/login/,201,Created,Thread Group 1-10,text,true,,704,534,25,25,12209,0,287
+1529584994559,12381,196 /api/user/login/,201,Created,Thread Group 1-16,text,true,,704,534,25,25,12381,0,286
+1529584994765,12233,196 /api/user/login/,201,Created,Thread Group 1-20,text,true,,704,534,25,25,12233,0,284
+1529584994810,12215,196 /api/user/login/,201,Created,Thread Group 1-14,text,true,,704,534,25,25,12215,0,287
+1529584994820,12271,196 /api/user/login/,201,Created,Thread Group 1-7,text,true,,704,534,25,25,12271,0,281
+1529584994807,12314,196 /api/user/login/,201,Created,Thread Group 1-15,text,true,,704,534,25,25,12314,0,292
+1529584995140,12063,196 /api/user/login/,201,Created,Thread Group 1-3,text,true,,704,534,25,25,12063,0,263
+1529584994937,12271,196 /api/user/login/,201,Created,Thread Group 1-8,text,true,,704,534,25,25,12271,0,292
+1529584995113,12207,196 /api/user/login/,201,Created,Thread Group 1-21,text,true,,704,534,25,25,12207,0,291
+1529584995142,12215,196 /api/user/login/,201,Created,Thread Group 1-23,text,true,,704,534,25,25,12215,0,319
+1529584995348,12050,196 /api/user/login/,201,Created,Thread Group 1-19,text,true,,704,534,25,25,12050,0,264
+1529584995186,12231,196 /api/user/login/,201,Created,Thread Group 1-17,text,true,,704,534,25,25,12231,0,323
+1529584996028,11456,196 /api/user/login/,201,Created,Thread Group 1-9,text,true,,703,533,25,25,11456,0,263
+1529584995404,12089,196 /api/user/login/,201,Created,Thread Group 1-25,text,true,,703,533,25,25,12089,0,296
+1529584996286,11308,196 /api/user/login/,201,Created,Thread Group 1-5,text,true,,703,533,25,25,11308,0,272
+1529584996035,11582,196 /api/user/login/,201,Created,Thread Group 1-13,text,true,,703,533,25,25,11582,0,324
+1529584996513,11183,196 /api/user/login/,201,Created,Thread Group 1-22,text,true,,703,533,25,25,11183,0,321
+1529584997526,10175,196 /api/user/login/,201,Created,Thread Group 1-24,text,true,,703,533,25,25,10175,0,296
+1529585006964,752,201 /api/user/asset-archive/,200,OK,Thread Group 1-1,text,true,,302,483,25,25,752,0,310
+1529585007054,678,201 /api/user/asset-archive/,200,OK,Thread Group 1-2,text,true,,302,483,25,25,678,0,295
+1529585007091,665,201 /api/user/asset-archive/,200,OK,Thread Group 1-18,text,true,,302,483,25,25,665,0,306
+1529585007143,627,201 /api/user/asset-archive/,200,OK,Thread Group 1-4,text,true,,302,483,25,25,627,0,298
+1529585007180,680,201 /api/user/asset-archive/,200,OK,Thread Group 1-6,text,true,,302,483,25,25,680,0,319
+1529585007316,602,201 /api/user/asset-archive/,200,OK,Thread Group 1-11,text,true,,302,483,25,25,602,0,285
+1529585007313,672,201 /api/user/asset-archive/,200,OK,Thread Group 1-12,text,true,,302,483,25,25,672,0,322
+1529585007441,578,201 /api/user/asset-archive/,200,OK,Thread Group 1-16,text,true,,302,483,25,25,578,0,266
+1529585007500,559,201 /api/user/asset-archive/,200,OK,Thread Group 1-20,text,true,,302,483,25,25,559,0,264
+1529585007411,659,201 /api/user/asset-archive/,200,OK,Thread Group 1-10,text,true,,302,483,25,25,659,0,308
+1529585007526,577,201 /api/user/asset-archive/,200,OK,Thread Group 1-14,text,true,,302,483,25,25,577,0,276
+1529585007594,567,201 /api/user/asset-archive/,200,OK,Thread Group 1-7,text,true,,302,483,25,25,567,0,266
+1529585007622,563,201 /api/user/asset-archive/,200,OK,Thread Group 1-15,text,true,,302,483,25,25,563,0,264
+1529585007705,661,201 /api/user/asset-archive/,200,OK,Thread Group 1-3,text,true,,302,483,25,25,661,0,314
+1529585007857,580,201 /api/user/asset-archive/,200,OK,Thread Group 1-23,text,true,,302,483,25,25,580,0,273
+1529585007899,572,201 /api/user/asset-archive/,200,OK,Thread Group 1-19,text,true,,302,483,25,25,572,0,266
+1529585007821,694,201 /api/user/asset-archive/,200,OK,Thread Group 1-21,text,true,,302,483,25,25,694,0,328
+1529585007918,638,201 /api/user/asset-archive/,200,OK,Thread Group 1-17,text,true,,302,483,25,25,638,0,299
+1529585008232,484,200 /api/user/asset/,200,OK,Thread Group 1-2,text,true,,2921,475,25,25,484,0,0
+1529585007985,741,201 /api/user/asset-archive/,200,OK,Thread Group 1-9,text,true,,302,483,25,25,741,0,274
+1529585007994,765,201 /api/user/asset-archive/,200,OK,Thread Group 1-25,text,true,,302,483,25,25,765,0,266
+1529585008216,574,200 /api/user/asset/,200,OK,Thread Group 1-1,text,true,,2913,475,25,25,574,0,0
+1529585008095,886,201 /api/user/asset-archive/,200,OK,Thread Group 1-5,text,true,,302,483,25,25,886,0,266
+1529585008270,713,200 /api/user/asset/,200,OK,Thread Group 1-4,text,true,,2924,475,25,25,713,0,0
+1529585008256,733,200 /api/user/asset/,200,OK,Thread Group 1-18,text,true,,2911,475,25,25,733,0,0
+1529585007708,1332,201 /api/user/asset-archive/,200,OK,Thread Group 1-8,text,true,,302,483,25,25,1332,0,313
+1529585008418,747,200 /api/user/asset/,200,OK,Thread Group 1-11,text,true,,2927,475,25,25,747,0,0
+1529585008360,812,200 /api/user/asset/,200,OK,Thread Group 1-6,text,true,,2912,475,25,25,812,0,0
+1529585008118,1063,201 /api/user/asset-archive/,200,OK,Thread Group 1-13,text,true,,302,483,25,25,1063,0,306
+1529585008196,1024,201 /api/user/asset-archive/,200,OK,Thread Group 1-22,text,true,,302,483,25,25,1024,0,310
+1529585008484,877,200 /api/user/asset/,200,OK,Thread Group 1-12,text,true,,2926,475,25,25,877,0,0
+1529585008519,861,200 /api/user/asset/,200,OK,Thread Group 1-16,text,true,,2911,475,25,25,860,0,0
+1529585008202,1189,201 /api/user/asset-archive/,200,OK,Thread Group 1-24,text,true,,302,483,25,25,1189,0,334
+1529585008559,971,200 /api/user/asset/,200,OK,Thread Group 1-20,text,true,,2926,475,25,25,971,0,0
+1529585008570,1042,200 /api/user/asset/,200,OK,Thread Group 1-10,text,true,,2912,475,25,25,1042,0,0
+1529585008603,1105,200 /api/user/asset/,200,OK,Thread Group 1-14,text,true,,2927,475,25,25,1105,0,0
+1529585008661,1109,200 /api/user/asset/,200,OK,Thread Group 1-7,text,true,,2914,475,25,25,1109,0,0
+1529585008685,1202,200 /api/user/asset/,200,OK,Thread Group 1-15,text,true,,2925,475,25,25,1202,0,0
+1529585008866,1134,200 /api/user/asset/,200,OK,Thread Group 1-3,text,true,,2931,475,25,25,1134,0,0
+1529585008937,1165,200 /api/user/asset/,200,OK,Thread Group 1-23,text,true,,2925,475,25,25,1165,0,0
+1529585008971,1168,200 /api/user/asset/,200,OK,Thread Group 1-19,text,true,,2924,475,25,25,1168,0,0
+1529585009014,1343,200 /api/user/asset/,200,OK,Thread Group 1-21,text,true,,2923,475,25,25,1343,0,0
+1529585009259,1252,200 /api/user/asset/,200,OK,Thread Group 1-25,text,true,,2928,475,25,25,1252,0,0
+1529585009226,1292,200 /api/user/asset/,200,OK,Thread Group 1-9,text,true,,2917,475,25,25,1292,0,0
+1529585009216,1356,199 /api/user/status/,200,OK,Thread Group 1-2,text,true,,1078,476,25,25,1356,0,264
+1529585009481,1196,200 /api/user/asset/,200,OK,Thread Group 1-5,text,true,,2926,475,25,25,1196,0,0
+1529585009056,1673,200 /api/user/asset/,200,OK,Thread Group 1-17,text,true,,2923,475,25,25,1673,0,0
+1529585009289,1449,199 /api/user/status/,200,OK,Thread Group 1-1,text,true,,1078,476,25,25,1448,0,310
+1529585009540,1220,200 /api/user/asset/,200,OK,Thread Group 1-8,text,true,,2915,475,25,25,1220,0,0
+1529585009720,1074,200 /api/user/asset/,200,OK,Thread Group 1-22,text,true,,308,475,25,25,1074,0,0
+1529585009489,1329,199 /api/user/status/,200,OK,Thread Group 1-18,text,true,,1078,476,25,25,1329,0,281
+1529585009483,1394,199 /api/user/status/,200,OK,Thread Group 1-4,text,true,,1078,476,25,25,1394,0,304
+1529585009890,1026,200 /api/user/asset/,200,OK,Thread Group 1-24,text,true,,308,475,25,25,1026,0,0
+1529585009681,1239,200 /api/user/asset/,200,OK,Thread Group 1-13,text,true,,2922,475,25,25,1239,0,0
+1529585009666,1268,199 /api/user/status/,200,OK,Thread Group 1-11,text,true,,1078,476,25,25,1268,0,290
+1529585009672,1282,199 /api/user/status/,200,OK,Thread Group 1-6,text,true,,1078,476,25,25,1282,0,279
+1529585009879,1092,199 /api/user/status/,200,OK,Thread Group 1-16,text,true,,1078,476,25,25,1092,0,264
+1529585009862,1142,199 /api/user/status/,200,OK,Thread Group 1-12,text,true,,1078,476,25,25,1142,0,305
+1529585010031,992,199 /api/user/status/,200,OK,Thread Group 1-20,text,true,,1078,476,25,25,992,0,271
+1529585010113,959,199 /api/user/status/,200,OK,Thread Group 1-10,text,true,,1078,476,25,25,959,0,308
+1529585010209,883,199 /api/user/status/,200,OK,Thread Group 1-14,text,true,,1078,476,25,25,883,0,298
+1529585010269,851,199 /api/user/status/,200,OK,Thread Group 1-7,text,true,,1078,476,25,25,851,0,299
+1529585010388,741,199 /api/user/status/,200,OK,Thread Group 1-15,text,true,,1078,476,25,25,741,0,286
+1529585010502,692,199 /api/user/status/,200,OK,Thread Group 1-3,text,true,,1078,476,25,25,692,0,323
+1529585010603,608,199 /api/user/status/,200,OK,Thread Group 1-23,text,true,,1078,476,25,25,608,0,283
+1529585010638,637,199 /api/user/status/,200,OK,Thread Group 1-19,text,true,,1078,476,25,25,637,0,293
+1529585011072,290,198 /api/user/total-matches/,200,OK,Thread Group 1-2,text,true,,269,483,25,25,290,0,0
+1529585010857,639,199 /api/user/status/,200,OK,Thread Group 1-21,text,true,,1078,476,25,25,639,0,295
+1529585011238,325,198 /api/user/total-matches/,200,OK,Thread Group 1-1,text,true,,269,483,25,25,325,0,0
+1529585011018,611,199 /api/user/status/,200,OK,Thread Group 1-9,text,true,,1074,476,25,25,610,0,286
+1529585011317,332,198 /api/user/total-matches/,200,OK,Thread Group 1-18,text,true,,269,483,25,25,332,0,0
+1529585011012,680,199 /api/user/status/,200,OK,Thread Group 1-25,text,true,,1074,476,25,25,680,0,285
+1529585011378,331,198 /api/user/total-matches/,200,OK,Thread Group 1-4,text,true,,269,483,25,25,331,0,0
+1529585011434,312,198 /api/user/total-matches/,200,OK,Thread Group 1-11,text,true,,269,483,25,25,312,0,0
+1529585011471,296,198 /api/user/total-matches/,200,OK,Thread Group 1-16,text,true,,269,483,25,25,296,0,0
+1529585011454,322,198 /api/user/total-matches/,200,OK,Thread Group 1-6,text,true,,269,483,25,25,322,0,0
+1529585011230,601,199 /api/user/status/,200,OK,Thread Group 1-17,text,true,,1078,476,25,25,601,0,275
+1529585011178,668,199 /api/user/status/,200,OK,Thread Group 1-5,text,true,,1074,476,25,25,668,0,313
+1529585011503,349,198 /api/user/total-matches/,200,OK,Thread Group 1-12,text,true,,269,483,25,25,348,0,0
+1529585011523,350,198 /api/user/total-matches/,200,OK,Thread Group 1-20,text,true,,269,483,25,25,350,0,0
+1529585011261,630,199 /api/user/status/,200,OK,Thread Group 1-8,text,true,,1078,476,25,25,630,0,272
+1529585011294,615,199 /api/user/status/,200,OK,Thread Group 1-22,text,true,,1006,476,25,25,615,0,264
+1529585011572,368,198 /api/user/total-matches/,200,OK,Thread Group 1-10,text,true,,269,483,25,25,368,0,0
+1529585011592,365,198 /api/user/total-matches/,200,OK,Thread Group 1-14,text,true,,269,483,25,25,365,0,0
+1529585011620,353,198 /api/user/total-matches/,200,OK,Thread Group 1-7,text,true,,269,483,25,25,353,0,0
+1529585011630,347,198 /api/user/total-matches/,200,OK,Thread Group 1-15,text,true,,269,483,25,25,347,0,0
+1529585011417,609,199 /api/user/status/,200,OK,Thread Group 1-24,text,true,,1006,476,25,25,609,0,279
+1529585011420,611,199 /api/user/status/,200,OK,Thread Group 1-13,text,true,,1074,476,25,25,611,0,279
+1529585011711,348,198 /api/user/total-matches/,200,OK,Thread Group 1-23,text,true,,269,483,25,25,348,0,0
+1529585011695,386,198 /api/user/total-matches/,200,OK,Thread Group 1-3,text,true,,269,483,25,25,386,0,0
+1529585011775,324,198 /api/user/total-matches/,200,OK,Thread Group 1-19,text,true,,269,483,25,25,324,0,0
+1529585011996,333,198 /api/user/total-matches/,200,OK,Thread Group 1-21,text,true,,269,483,25,25,333,0,0
+1529585011862,648,208 /api/user/asset-data/,200,OK,Thread Group 1-2,text,true,,2490,468,25,25,648,0,309
+1529585012193,322,198 /api/user/total-matches/,200,OK,Thread Group 1-25,text,true,,269,483,25,25,322,0,0
+1529585012332,310,198 /api/user/total-matches/,200,OK,Thread Group 1-17,text,true,,269,483,25,25,310,0,0
+1529585012062,629,208 /api/user/asset-data/,200,OK,Thread Group 1-1,text,true,,2490,468,25,25,629,0,294
+1529585012392,313,198 /api/user/total-matches/,200,OK,Thread Group 1-8,text,true,,269,483,25,25,313,0,0
+1529585012408,307,198 /api/user/total-matches/,200,OK,Thread Group 1-22,text,true,,269,483,25,25,307,0,0
+1529585012346,370,198 /api/user/total-matches/,200,OK,Thread Group 1-5,text,true,,269,483,25,25,370,0,0
+1529585012149,611,208 /api/user/asset-data/,200,OK,Thread Group 1-18,text,true,,2490,468,25,25,611,0,284
+1529585012209,618,208 /api/user/asset-data/,200,OK,Thread Group 1-4,text,true,,2490,468,25,25,618,0,291
+1529585012267,580,208 /api/user/asset-data/,200,OK,Thread Group 1-16,text,true,,2490,468,25,25,580,0,263
+1529585012246,616,208 /api/user/asset-data/,200,OK,Thread Group 1-11,text,true,,2490,468,25,25,616,0,280
+1529585012526,372,198 /api/user/total-matches/,200,OK,Thread Group 1-24,text,true,,269,483,25,25,372,0,0
+1529585012531,370,198 /api/user/total-matches/,200,OK,Thread Group 1-13,text,true,,269,483,25,25,370,0,0
+1529585012275,656,208 /api/user/asset-data/,200,OK,Thread Group 1-6,text,true,,2490,468,25,25,656,0,279
+1529585012560,379,208 /api/user/asset-data/,200,OK,Thread Group 1-23,text,true,,2490,468,25,25,379,0,0
+1529585012351,605,208 /api/user/asset-data/,200,OK,Thread Group 1-12,text,true,,2490,468,25,25,605,0,283
+1529585012598,366,208 /api/user/asset-data/,200,OK,Thread Group 1-19,text,true,,2490,468,25,25,366,0,0
+1529585012440,553,208 /api/user/asset-data/,200,OK,Thread Group 1-10,text,true,,2490,468,25,25,553,0,259
+1529585012372,644,208 /api/user/asset-data/,200,OK,Thread Group 1-20,text,true,,2490,468,25,25,644,0,297
+1529585012456,568,208 /api/user/asset-data/,200,OK,Thread Group 1-14,text,true,,2490,468,25,25,568,0,265
+1529585012477,560,208 /api/user/asset-data/,200,OK,Thread Group 1-15,text,true,,2490,468,25,25,560,0,266
+1529585012129,988,198 /api/user/total-matches/,200,OK,Thread Group 1-9,text,true,,269,483,25,25,988,0,0
+1529585012580,559,208 /api/user/asset-data/,200,OK,Thread Group 1-3,text,true,,2490,468,25,25,559,0,264
+1529585012830,339,208 /api/user/asset-data/,200,OK,Thread Group 1-21,text,true,,2490,468,25,25,339,0,0
+1529585013142,308,208 /api/user/asset-data/,200,OK,Thread Group 1-17,text,true,,2490,468,25,25,308,0,0
+1529585013216,296,208 /api/user/asset-data/,200,OK,Thread Group 1-22,text,true,,2490,468,25,25,296,0,0
+1529585013206,308,208 /api/user/asset-data/,200,OK,Thread Group 1-8,text,true,,2490,468,25,25,308,0,0
+1529585013015,575,208 /api/user/asset-data/,200,OK,Thread Group 1-25,text,true,,2490,468,25,25,575,0,270
+1529585013399,310,208 /api/user/asset-data/,200,OK,Thread Group 1-24,text,true,,2490,468,25,25,310,0,0
+1529585013400,342,208 /api/user/asset-data/,200,OK,Thread Group 1-13,text,true,,2490,468,25,25,342,0,0
+1529585013215,561,208 /api/user/asset-data/,200,OK,Thread Group 1-5,text,true,,2490,468,25,25,561,0,261
+1529585013511,482,216 /api/user/asset/,201,Created,Thread Group 1-2,text,true,,2990,1839,25,25,482,0,0
+1529585012473,1659,208 /api/user/asset-data/,200,OK,Thread Group 1-7,text,true,,2490,468,25,25,1659,0,310
+1529585013692,477,216 /api/user/asset/,201,Created,Thread Group 1-1,text,true,,2990,1839,25,25,477,0,0
+1529585013760,413,216 /api/user/asset/,201,Created,Thread Group 1-18,text,true,,2990,1839,25,25,413,0,0
+1529585013847,417,216 /api/user/asset/,201,Created,Thread Group 1-16,text,true,,2990,1839,25,25,417,0,0
+1529585013827,451,216 /api/user/asset/,201,Created,Thread Group 1-4,text,true,,2990,1839,25,25,451,0,0
+1529585013618,687,208 /api/user/asset-data/,200,OK,Thread Group 1-9,text,true,,2490,468,25,25,687,0,276
+1529585013863,532,216 /api/user/asset/,201,Created,Thread Group 1-11,text,true,,2990,1839,25,25,532,0,0
+1529585013932,503,216 /api/user/asset/,201,Created,Thread Group 1-6,text,true,,2990,1839,25,25,503,0,0
+1529585013956,554,216 /api/user/asset/,201,Created,Thread Group 1-12,text,true,,2990,1839,25,25,554,0,0
+1529585013994,542,216 /api/user/asset/,201,Created,Thread Group 1-10,text,true,,2990,1839,25,25,542,0,0
+1529585014025,616,216 /api/user/asset/,201,Created,Thread Group 1-14,text,true,,2990,1839,25,25,615,0,0
+1529585014017,657,216 /api/user/asset/,201,Created,Thread Group 1-20,text,true,,2990,1839,25,25,657,0,0
+1529585014038,723,216 /api/user/asset/,201,Created,Thread Group 1-15,text,true,,2990,1839,25,25,723,0,0
+1529585014139,645,216 /api/user/asset/,201,Created,Thread Group 1-3,text,true,,2990,1839,25,25,645,0,0
+1529585013940,949,216 /api/user/asset/,201,Created,Thread Group 1-23,text,true,,2990,1839,25,25,949,0,270
+1529585013965,939,216 /api/user/asset/,201,Created,Thread Group 1-19,text,true,,2990,1839,25,25,939,0,273
+1529585014169,818,216 /api/user/asset/,201,Created,Thread Group 1-21,text,true,,2990,1839,25,25,818,0,279
+1529585014591,435,216 /api/user/asset/,201,Created,Thread Group 1-25,text,true,,2990,1839,25,25,435,0,0
+1529585014493,632,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-2,text,true,,502,435,25,25,632,0,282
+1529585014451,690,216 /api/user/asset/,201,Created,Thread Group 1-17,text,true,,2990,1839,25,25,690,0,289
+1529585014777,366,216 /api/user/asset/,201,Created,Thread Group 1-5,text,true,,2990,1839,25,25,366,0,0
+1529585014513,724,216 /api/user/asset/,201,Created,Thread Group 1-22,text,true,,2990,1839,25,25,724,0,275
+1529585014670,568,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-1,text,true,,502,435,25,25,568,0,273
+1529585014673,604,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-18,text,true,,502,435,25,25,604,0,303
+1529585014514,766,216 /api/user/asset/,201,Created,Thread Group 1-8,text,true,,2990,1839,25,25,766,0,316
+1529585014765,635,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-16,text,true,,502,435,25,25,635,0,269
+1529585014743,657,216 /api/user/asset/,201,Created,Thread Group 1-13,text,true,,2990,1839,25,25,657,0,267
+1529585014778,661,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-4,text,true,,502,435,25,25,661,0,313
+1529585014896,572,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-11,text,true,,502,435,25,25,572,0,285
+1529585014935,565,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-6,text,true,,502,435,25,25,565,0,281
+1529585014710,795,216 /api/user/asset/,201,Created,Thread Group 1-24,text,true,,2990,1839,25,25,795,0,293
+1529585015036,612,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-10,text,true,,502,435,25,25,612,0,265
+1529585015011,648,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-12,text,true,,502,435,25,25,648,0,314
+1529585015389,288,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-23,text,true,,502,435,25,25,288,0,0
+1529585015404,282,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-19,text,true,,502,435,25,25,282,0,0
+1529585015306,381,216 /api/user/asset/,201,Created,Thread Group 1-9,text,true,,2990,1839,25,25,381,0,0
+1529585015141,573,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-14,text,true,,502,435,25,25,573,0,287
+1529585015488,276,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-21,text,true,,502,435,25,25,276,0,0
+1529585015174,595,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-20,text,true,,502,435,25,25,595,0,297
+1529585015262,613,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-15,text,true,,502,435,25,25,613,0,306
+1529585015133,810,216 /api/user/asset/,201,Created,Thread Group 1-7,text,true,,2990,1839,25,25,810,0,280
+1529585015641,303,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-17,text,true,,502,435,25,25,303,0,0
+1529585015285,688,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-3,text,true,,502,435,25,25,688,0,349
+1529585015626,369,219 /api/user/status/,200,OK,Thread Group 1-2,text,true,,1078,476,25,25,369,0,0
+1529585015780,332,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-8,text,true,,502,435,25,25,332,0,0
+1529585015737,375,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-22,text,true,,502,435,25,25,375,0,0
+1529585015738,399,219 /api/user/status/,200,OK,Thread Group 1-1,text,true,,1078,476,25,25,399,0,0
+1529585015777,368,219 /api/user/status/,200,OK,Thread Group 1-18,text,true,,1078,476,25,25,368,0,0
+1529585015527,622,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-25,text,true,,502,435,25,25,622,0,272
+1529585015901,295,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-13,text,true,,502,435,25,25,295,0,0
+1529585015900,330,219 /api/user/status/,200,OK,Thread Group 1-16,text,true,,1078,476,25,25,330,0,0
+1529585016005,303,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-24,text,true,,502,435,25,25,303,0,0
+1529585015940,381,219 /api/user/status/,200,OK,Thread Group 1-4,text,true,,1078,476,25,25,381,0,0
+1529585015643,685,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-5,text,true,,502,435,25,25,685,0,340
+1529585015968,412,219 /api/user/status/,200,OK,Thread Group 1-11,text,true,,1078,476,25,25,412,0,0
+1529585016000,416,219 /api/user/status/,200,OK,Thread Group 1-6,text,true,,1078,476,25,25,416,0,0
+1529585016149,357,219 /api/user/status/,200,OK,Thread Group 1-10,text,true,,1078,476,25,25,357,0,0
+1529585016159,376,219 /api/user/status/,200,OK,Thread Group 1-12,text,true,,1078,476,25,25,376,0,0
+1529585016214,336,219 /api/user/status/,200,OK,Thread Group 1-14,text,true,,1078,476,25,25,336,0,0
+1529585016269,342,219 /api/user/status/,200,OK,Thread Group 1-20,text,true,,1078,476,25,25,341,0,0
+1529585016375,318,219 /api/user/status/,200,OK,Thread Group 1-15,text,true,,1078,476,25,25,318,0,0
+1529585016443,286,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-7,text,true,,502,435,25,25,286,0,0
+1529585016187,601,217 /api/match/match_asset/?asset_id=13,200,OK,Thread Group 1-9,text,true,,502,435,25,25,601,0,301
+1529585016444,346,219 /api/user/status/,200,OK,Thread Group 1-17,text,true,,1078,476,25,25,346,0,0
+1529585016473,320,219 /api/user/status/,200,OK,Thread Group 1-3,text,true,,1078,476,25,25,320,0,0
+1529585016178,658,219 /api/user/status/,200,OK,Thread Group 1-23,text,true,,1078,476,25,25,658,0,322
+1529585016186,652,219 /api/user/status/,200,OK,Thread Group 1-19,text,true,,1078,476,25,25,652,0,319
+1529585016264,652,219 /api/user/status/,200,OK,Thread Group 1-21,text,true,,1078,476,25,25,652,0,303
+1529585016638,307,218 /api/user/total-matches/,200,OK,Thread Group 1-1,text,true,,269,483,25,25,307,0,0
+1529585016649,341,219 /api/user/status/,200,OK,Thread Group 1-25,text,true,,1074,476,25,25,341,0,0
+1529585016646,354,218 /api/user/total-matches/,200,OK,Thread Group 1-18,text,true,,269,483,25,25,354,0,0
+1529585016696,324,219 /api/user/status/,200,OK,Thread Group 1-13,text,true,,1074,476,25,25,324,0,0
+1529585016731,304,218 /api/user/total-matches/,200,OK,Thread Group 1-16,text,true,,269,483,25,25,304,0,0
+1529585016496,611,218 /api/user/total-matches/,200,OK,Thread Group 1-2,text,true,,269,483,25,25,611,0,287
+1529585016828,345,219 /api/user/status/,200,OK,Thread Group 1-5,text,true,,1074,476,25,25,345,0,0
+1529585016612,594,219 /api/user/status/,200,OK,Thread Group 1-22,text,true,,1074,476,25,25,594,0,267
+1529585016881,325,218 /api/user/total-matches/,200,OK,Thread Group 1-11,text,true,,269,483,25,25,325,0,0
+1529585016916,327,218 /api/user/total-matches/,200,OK,Thread Group 1-6,text,true,,269,483,25,25,327,0,0
+1529585016612,643,219 /api/user/status/,200,OK,Thread Group 1-8,text,true,,1078,476,25,25,643,0,305
+1529585017006,308,218 /api/user/total-matches/,200,OK,Thread Group 1-10,text,true,,269,483,25,25,308,0,0
+1529585017050,310,218 /api/user/total-matches/,200,OK,Thread Group 1-14,text,true,,269,483,25,25,310,0,0
+1529585016822,603,218 /api/user/total-matches/,200,OK,Thread Group 1-4,text,true,,269,483,25,25,603,0,261
+1529585017112,325,218 /api/user/total-matches/,200,OK,Thread Group 1-20,text,true,,269,483,25,25,325,0,0
+1529585016809,656,219 /api/user/status/,200,OK,Thread Group 1-24,text,true,,1074,476,25,25,656,0,303
+1529585017193,313,218 /api/user/total-matches/,200,OK,Thread Group 1-15,text,true,,269,483,25,25,313,0,0
+1529585017288,330,219 /api/user/status/,200,OK,Thread Group 1-9,text,true,,1074,476,25,25,330,0,0
+1529585017036,601,218 /api/user/total-matches/,200,OK,Thread Group 1-12,text,true,,269,483,25,25,601,0,289
+1529585017337,317,218 /api/user/total-matches/,200,OK,Thread Group 1-23,text,true,,269,483,25,25,317,0,0
+1529585017338,328,218 /api/user/total-matches/,200,OK,Thread Group 1-19,text,true,,269,483,25,25,328,0,0
+1529585017417,327,218 /api/user/total-matches/,200,OK,Thread Group 1-21,text,true,,269,483,25,25,327,0,0
+1529585017490,297,218 /api/user/total-matches/,200,OK,Thread Group 1-25,text,true,,269,483,25,25,297,0,0
+1529585017229,620,219 /api/user/status/,200,OK,Thread Group 1-7,text,true,,1078,476,25,25,620,0,290
+1529585017293,574,218 /api/user/total-matches/,200,OK,Thread Group 1-3,text,true,,269,483,25,25,574,0,267
+1529585017290,648,218 /api/user/total-matches/,200,OK,Thread Group 1-17,text,true,,269,483,25,25,648,0,311
+1529585017706,293,218 /api/user/total-matches/,200,OK,Thread Group 1-22,text,true,,269,483,25,25,293,0,0
+1529585017613,500,221 /api/user/asset/,200,OK,Thread Group 1-2,text,true,,3152,475,25,25,500,0,0
+1529585017445,774,221 /api/user/asset/,200,OK,Thread Group 1-1,text,true,,3144,475,25,25,773,0,274
+1529585017755,505,218 /api/user/total-matches/,200,OK,Thread Group 1-8,text,true,,269,483,25,25,505,0,0
+1529585017520,753,218 /api/user/total-matches/,200,OK,Thread Group 1-13,text,true,,269,483,25,25,753,0,265
+1529585017501,794,221 /api/user/asset/,200,OK,Thread Group 1-18,text,true,,3142,475,25,25,794,0,264
+1529585017536,942,221 /api/user/asset/,200,OK,Thread Group 1-16,text,true,,3142,475,25,25,942,0,270
+1529585017926,574,221 /api/user/asset/,200,OK,Thread Group 1-4,text,true,,3155,475,25,25,574,0,0
+1529585017673,848,218 /api/user/total-matches/,200,OK,Thread Group 1-5,text,true,,269,483,25,25,848,0,275
+1529585017966,612,218 /api/user/total-matches/,200,OK,Thread Group 1-24,text,true,,269,483,25,25,612,0,0
+1529585017744,978,221 /api/user/asset/,200,OK,Thread Group 1-6,text,true,,3143,475,25,25,978,0,267
+1529585017706,1051,221 /api/user/asset/,200,OK,Thread Group 1-11,text,true,,3158,475,25,25,1051,0,306
+1529585018118,649,218 /api/user/total-matches/,200,OK,Thread Group 1-9,text,true,,269,483,25,25,649,0,0
+1529585018137,811,221 /api/user/asset/,200,OK,Thread Group 1-12,text,true,,3157,475,25,25,811,0,0
+1529585017814,1176,221 /api/user/asset/,200,OK,Thread Group 1-10,text,true,,3143,475,25,25,1176,0,319
+1529585017861,1293,221 /api/user/asset/,200,OK,Thread Group 1-14,text,true,,3158,475,25,25,1293,0,296
+1529585018155,1011,221 /api/user/asset/,200,OK,Thread Group 1-23,text,true,,3156,475,25,25,1011,0,0
+1529585018166,1177,221 /api/user/asset/,200,OK,Thread Group 1-19,text,true,,3155,475,25,25,1177,0,0
+1529585017937,1453,221 /api/user/asset/,200,OK,Thread Group 1-20,text,true,,3157,475,25,25,1453,0,269
+1529585018245,1314,221 /api/user/asset/,200,OK,Thread Group 1-21,text,true,,3154,475,25,25,1314,0,0
+1529585018007,1562,221 /api/user/asset/,200,OK,Thread Group 1-15,text,true,,3156,475,25,25,1562,0,274
+1529585018349,1224,218 /api/user/total-matches/,200,OK,Thread Group 1-7,text,true,,269,483,25,25,1224,0,0
+1529585018368,1405,221 /api/user/asset/,200,OK,Thread Group 1-3,text,true,,3162,475,25,25,1405,0,0
+1529585018438,1362,221 /api/user/asset/,200,OK,Thread Group 1-17,text,true,,3154,475,25,25,1362,0,0
+1529585018500,1309,221 /api/user/asset/,200,OK,Thread Group 1-22,text,true,,539,475,25,25,1309,0,0
+1529585018719,1132,220 /api/user/asset-archive/,200,OK,Thread Group 1-1,text,true,,302,483,25,25,1132,0,0
+1529585018288,1686,221 /api/user/asset/,200,OK,Thread Group 1-25,text,true,,3159,475,25,25,1686,0,270
+1529585018795,1212,220 /api/user/asset-archive/,200,OK,Thread Group 1-18,text,true,,302,483,25,25,1212,0,0
+1529585018773,1283,221 /api/user/asset/,200,OK,Thread Group 1-13,text,true,,3153,475,25,25,1283,0,0
+1529585018979,1097,220 /api/user/asset-archive/,200,OK,Thread Group 1-16,text,true,,302,483,25,25,1097,0,0
+1529585018614,1468,220 /api/user/asset-archive/,200,OK,Thread Group 1-2,text,true,,302,483,25,25,1468,0,324
+1529585018760,1499,221 /api/user/asset/,200,OK,Thread Group 1-8,text,true,,3146,475,25,25,1499,0,265
+1529585019022,1295,221 /api/user/asset/,200,OK,Thread Group 1-5,text,true,,3157,475,25,25,1295,0,0
+1529585019222,1096,220 /api/user/asset-archive/,200,OK,Thread Group 1-6,text,true,,302,483,25,25,1096,0,0
+1529585019000,1342,220 /api/user/asset-archive/,200,OK,Thread Group 1-4,text,true,,302,483,25,25,1342,0,264
+1529585019257,1100,220 /api/user/asset-archive/,200,OK,Thread Group 1-11,text,true,,302,483,25,25,1100,0,0
+1529585019851,531,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-1,bin,true,,11246,413,25,25,531,0,264
+1529585019078,1317,221 /api/user/asset/,200,OK,Thread Group 1-24,text,true,,539,475,25,25,1317,0,272
+1529585019490,935,220 /api/user/asset-archive/,200,OK,Thread Group 1-10,text,true,,302,483,25,25,935,0,0
+1529585019654,806,220 /api/user/asset-archive/,200,OK,Thread Group 1-14,text,true,,302,483,25,25,806,0,0
+1529585019890,616,220 /api/user/asset-archive/,200,OK,Thread Group 1-20,text,true,,302,483,25,25,616,0,0
+1529585019448,1069,220 /api/user/asset-archive/,200,OK,Thread Group 1-12,text,true,,302,483,25,25,1069,0,322
+1529585019666,898,220 /api/user/asset-archive/,200,OK,Thread Group 1-23,text,true,,302,483,25,25,898,0,312
+1529585020008,595,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-18,bin,true,,11246,413,25,25,595,0,293
+1529585019268,1339,221 /api/user/asset/,200,OK,Thread Group 1-9,text,true,,3148,475,25,25,1339,0,267
+1529585019844,765,220 /api/user/asset-archive/,200,OK,Thread Group 1-19,text,true,,302,483,25,25,765,0,301
+1529585020059,581,220 /api/user/asset-archive/,200,OK,Thread Group 1-21,text,true,,302,483,25,25,581,0,270
+1529585020082,564,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-2,bin,true,,11246,413,25,25,564,0,278
+1529585020383,269,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-1,bin,true,,20470,413,25,25,268,0,0
+1529585020069,628,220 /api/user/asset-archive/,200,OK,Thread Group 1-15,text,true,,302,483,25,25,628,0,292
+1529585020076,628,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-16,bin,true,,11246,413,25,25,628,0,309
+1529585020073,737,221 /api/user/asset/,200,OK,Thread Group 1-7,text,true,,3145,475,25,25,737,0,273
+1529585020604,310,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-18,bin,true,,20470,413,25,25,308,0,0
+1529585020273,643,220 /api/user/asset-archive/,200,OK,Thread Group 1-3,text,true,,302,483,25,25,643,0,302
+1529585020343,580,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-4,bin,true,,11246,413,25,25,580,0,286
+1529585020653,289,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-1,bin,true,,15882,413,25,25,289,0,0
+1529585020309,634,220 /api/user/asset-archive/,200,OK,Thread Group 1-22,text,true,,302,483,25,25,634,0,297
+1529585020319,625,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-6,bin,true,,11246,413,25,25,625,0,307
+1529585020647,305,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-2,bin,true,,20470,413,25,25,304,0,0
+1529585020425,541,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-10,bin,true,,11246,413,25,25,541,0,267
+1529585020357,620,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-11,bin,true,,11246,413,25,25,620,0,308
+1529585020460,530,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-14,bin,true,,11246,413,25,25,530,0,263
+1529585020705,318,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-16,bin,true,,20470,413,25,25,316,0,0
+1529585020474,557,220 /api/user/asset-archive/,200,OK,Thread Group 1-25,text,true,,302,483,25,25,557,0,260
+1529585020517,586,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-12,bin,true,,11246,413,25,25,585,0,291
+1529585020556,561,220 /api/user/asset-archive/,200,OK,Thread Group 1-13,text,true,,302,483,25,25,561,0,264
+1529585020506,624,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-20,bin,true,,11246,413,25,25,624,0,313
+1529585020565,571,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-23,bin,true,,11246,413,25,25,571,0,283
+1529585020896,295,220 /api/user/asset-archive/,200,OK,Thread Group 1-24,text,true,,302,483,25,25,295,0,0
+1529585020924,271,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-4,bin,true,,20470,413,25,25,270,0,0
+1529585020914,311,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-18,bin,true,,15882,413,25,25,310,0,0
+1529585020610,617,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-19,bin,true,,11246,413,25,25,617,0,308
+1529585020953,283,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-2,bin,true,,15882,413,25,25,282,0,0
+1529585020698,540,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-15,bin,true,,11246,413,25,25,540,0,268
+1529585020967,274,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-10,bin,true,,20470,413,25,25,273,0,0
+1529585020640,617,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-21,bin,true,,11246,413,25,25,617,0,307
+1529585020991,268,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-14,bin,true,,20470,413,25,25,267,0,0
+1529585020945,323,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-6,bin,true,,20470,413,25,25,322,0,0
+1529585020978,317,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-11,bin,true,,20470,413,25,25,315,0,0
+1529585021023,315,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-16,bin,true,,15882,413,25,25,315,0,0
+1529585020760,631,220 /api/user/asset-archive/,200,OK,Thread Group 1-8,text,true,,302,483,25,25,631,0,296
+1529585021103,296,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-12,bin,true,,20470,413,25,25,295,0,0
+1529585020818,584,220 /api/user/asset-archive/,200,OK,Thread Group 1-5,text,true,,302,483,25,25,584,0,274
+1529585021107,302,220 /api/user/asset-archive/,200,OK,Thread Group 1-9,text,true,,302,483,25,25,302,0,0
+1529585021136,300,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-23,bin,true,,20470,413,25,25,299,0,0
+1529585021130,318,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-20,bin,true,,20470,413,25,25,317,0,0
+1529585021196,270,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-4,bin,true,,15882,413,25,25,270,0,0
+1529585020943,540,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-22,bin,true,,11246,413,25,25,540,0,266
+1529585021239,277,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-15,bin,true,,20470,413,25,25,275,0,0
+1529585021242,280,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-10,bin,true,,15882,413,25,25,279,0,0
+1529585021260,276,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-14,bin,true,,15882,413,25,25,276,0,0
+1529585021228,314,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-19,bin,true,,20470,413,25,25,313,0,0
+1529585021032,533,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-25,bin,true,,11246,413,25,25,533,0,262
+1529585021257,309,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-21,bin,true,,20470,413,25,25,308,0,0
+1529585020300,1275,220 /api/user/asset-archive/,200,OK,Thread Group 1-17,text,true,,302,483,25,25,1275,0,294
+1529585021268,315,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-6,bin,true,,15882,413,25,25,315,0,0
+1529585021310,307,220 /api/user/asset-archive/,200,OK,Thread Group 1-7,text,true,,302,483,25,25,307,0,0
+1529585021400,286,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-12,bin,true,,15882,413,25,25,285,0,0
+1529585021117,601,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-13,bin,true,,11246,413,25,25,601,0,302
+1529585021436,292,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-23,bin,true,,15882,413,25,25,292,0,0
+1529585021448,311,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-20,bin,true,,15882,413,25,25,310,0,0
+1529585021483,279,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-22,bin,true,,20470,413,25,25,278,0,0
+1529585021516,273,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-15,bin,true,,15882,413,25,25,272,0,0
+1529585021191,601,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-24,bin,true,,11246,413,25,25,601,0,301
+1529585021565,269,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-25,bin,true,,20470,413,25,25,268,0,0
+1529585021543,304,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-19,bin,true,,15882,413,25,25,303,0,0
+1529585021295,616,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-11,bin,true,,15882,413,25,25,306,0,0
+1529585021391,535,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-8,bin,true,,11246,413,25,25,535,0,264
+1529585021410,528,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-9,bin,true,,11246,413,25,25,528,0,262
+1529585021402,622,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-5,bin,true,,11246,413,25,25,622,0,305
+1529585021718,310,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-13,bin,true,,20470,413,25,25,308,0,0
+1529585021763,272,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-22,bin,true,,15882,413,25,25,272,0,0
+1529585021792,298,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-24,bin,true,,20470,413,25,25,297,0,0
+1529585021835,282,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-25,bin,true,,15882,413,25,25,282,0,0
+1529585021576,561,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-17,bin,true,,11246,413,25,25,561,0,280
+1529585021926,271,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-8,bin,true,,20470,413,25,25,270,0,0
+1529585021938,269,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-9,bin,true,,20470,413,25,25,268,0,0
+1529585021566,675,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-21,bin,true,,15882,413,25,25,303,0,0
+1529585022028,300,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-13,bin,true,,15882,413,25,25,300,0,0
+1529585022024,310,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-5,bin,true,,20470,413,25,25,309,0,0
+1529585022091,296,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-24,bin,true,,15882,413,25,25,296,0,0
+1529585022137,284,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-17,bin,true,,20470,413,25,25,282,0,0
+1529585022197,278,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-8,bin,true,,15882,413,25,25,277,0,0
+1529585022207,272,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-9,bin,true,,15882,413,25,25,271,0,0
+1529585021617,964,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-7,bin,true,,11246,413,25,25,964,0,323
+1529585022421,279,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-17,bin,true,,15882,413,25,25,278,0,0
+1529585022582,840,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-7,bin,true,,20470,413,25,25,323,0,0
+1529585020917,2662,223 /29ec8a964c3b47175d96aa2990a0afdc.png,200,OK,Thread Group 1-3,bin,true,,11246,413,25,25,1119,0,307
+1529585022335,1524,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-5,bin,true,,15882,413,25,25,317,0,0
+1529585023422,634,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-7,bin,true,,15882,413,25,25,319,0,0
+1529585023580,2078,224 /acbadec301c68d45cdc60dd8dfb61f2f.png,200,OK,Thread Group 1-3,bin,true,,20470,413,25,25,585,0,289
+1529585025658,820,225 /c3a5be1de434b4c112007ca0b8258022.png,200,OK,Thread Group 1-3,bin,true,,15882,413,25,25,547,0,267
+1529585021443,30178,222 /api/match/match_asset/,200,OK,Thread Group 1-1,text,true,,726,495,25,25,30177,0,279
+1529585021725,31071,222 /api/match/match_asset/,502,Bad Gateway,Thread Group 1-18,text,false,,750,495,25,25,31071,0,269
+1529585021736,31145,222 /api/match/match_asset/,500,Internal Server Error,Thread Group 1-2,text,false,,263,495,25,25,31145,0,312
+1529585021839,60329,222 /api/match/match_asset/,502,Bad Gateway,Thread Group 1-16,text,false,,750,495,25,25,60329,0,283
+1529585021966,60617,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-4,text,false,,765,495,25,25,60617,0,308
+1529585022022,60571,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-10,text,false,,765,495,25,25,60571,0,285
+1529585022036,60572,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-14,text,false,,765,495,25,25,60572,0,288
+1529585022083,60602,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-6,text,false,,765,495,25,25,60602,0,299
+1529585022229,60538,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-23,text,false,,765,495,25,25,60538,0,265
+1529585022259,60522,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-20,text,false,,765,495,25,25,60522,0,260
+1529585022186,60618,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-12,text,false,,765,495,25,25,60618,0,303
+1529585022289,60555,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-15,text,false,,765,495,25,25,60555,0,277
+1529585022347,60620,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-19,text,false,,765,495,25,25,60620,0,306
+1529585022411,60616,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-11,text,false,,765,495,25,25,60616,0,307
+1529585022535,60528,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-22,text,false,,765,495,25,25,60528,0,263
+1529585022617,60594,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-25,text,false,,765,495,25,25,60594,0,293
+1529585022741,60530,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-21,text,false,,765,495,25,25,60530,0,264
+1529585022887,60565,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-24,text,false,,765,495,25,25,60565,0,278
+1529585022829,60632,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-13,text,false,,765,495,25,25,60632,0,316
+1529585022979,60549,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-9,text,false,,765,495,25,25,60549,0,273
+1529585022975,60651,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-8,text,false,,765,495,25,25,60651,0,324
+1529585023200,60538,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-17,text,false,,765,495,25,25,60538,0,268
+1529585024360,60539,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-5,text,false,,765,495,25,25,60539,0,268
+1529585024556,60543,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-7,text,false,,765,495,25,25,60543,0,271
+1529585026978,60642,222 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-3,text,false,,765,495,25,25,60642,0,324
+1529585052621,60555,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-1,text,false,,765,495,25,25,60555,0,269
+1529585053797,60591,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-18,text,false,,765,495,25,25,60591,0,301
+1529585053882,60537,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-2,text,false,,765,495,25,25,60537,0,268
+1529585083169,60589,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-16,text,false,,765,495,25,25,60589,0,295
+1529585083584,60534,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-4,text,false,,765,495,25,25,60534,0,264
+1529585083609,60535,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-14,text,false,,765,495,25,25,60534,0,264
+1529585083593,60607,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-10,text,false,,765,495,25,25,60607,0,305
+1529585083686,60528,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-6,text,false,,765,495,25,25,60528,0,262
+1529585083782,60531,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-20,text,false,,765,495,25,25,60531,0,265
+1529585083768,60606,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-23,text,false,,765,495,25,25,60606,0,306
+1529585083805,60627,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-12,text,false,,765,495,25,25,60627,0,316
+1529585083845,60628,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-15,text,false,,765,495,25,25,60628,0,316
+1529585083968,60534,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-19,text,false,,765,495,25,25,60534,0,265
+1529585084028,60545,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-11,text,false,,765,495,25,25,60545,0,270
+1529585084064,60564,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-22,text,false,,765,495,25,25,60564,0,280
+1529585084212,60551,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-25,text,false,,765,495,25,25,60551,0,277
+1529585084271,60549,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-21,text,false,,765,495,25,25,60549,0,270
+1529585084453,60588,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-24,text,false,,765,495,25,25,60588,0,295
+1529585084462,60588,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-13,text,false,,765,495,25,25,60588,0,296
+1529585084528,60540,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-9,text,false,,765,495,25,25,60540,0,265
+1529585084626,60549,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-8,text,false,,765,495,25,25,60549,0,270
+1529585084739,60530,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-17,text,false,,765,495,25,25,60530,0,263
+1529585085900,60579,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-5,text,false,,765,495,25,25,60579,0,291
+1529585086100,60604,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-7,text,false,,765,495,25,25,60604,0,305
+1529585088621,60561,238 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-3,text,false,,765,495,25,25,60561,0,283
+1529585114178,60591,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-1,text,false,,765,495,25,25,60591,0,280
+1529585115389,60527,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-18,text,false,,765,495,25,25,60527,0,262
+1529585115420,60557,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-2,text,false,,765,495,25,25,60557,0,277
+1529585144759,60581,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-16,text,false,,765,495,25,25,60580,0,286
+1529585145145,60556,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-14,text,false,,765,495,25,25,60556,0,277
+1529585145201,60540,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-10,text,false,,765,495,25,25,60540,0,271
+1529585145120,60635,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-4,text,false,,765,495,25,25,60635,0,313
+1529585145215,60597,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-6,text,false,,765,495,25,25,60597,0,298
+1529585145376,60534,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-23,text,false,,765,495,25,25,60534,0,268
+1529585145434,60530,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-12,text,false,,765,495,25,25,60530,0,262
+1529585145315,60651,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-20,text,false,,765,495,25,25,60651,0,336
+1529585145475,60540,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-15,text,false,,765,495,25,25,60540,0,273
+1529585145503,60554,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-19,text,false,,765,495,25,25,60554,0,276
+1529585145574,60545,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-11,text,false,,765,495,25,25,60545,0,274
+1529585145630,60608,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-22,text,false,,765,495,25,25,60608,0,292
+1529585145765,60564,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-25,text,false,,765,495,25,25,60564,0,272
+1529585145821,60535,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-21,text,false,,765,495,25,25,60535,0,264
+1529585146070,60536,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-9,text,false,,765,495,25,25,60536,0,263
+1529585146043,60614,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-24,text,false,,765,495,25,25,60614,0,302
+1529585146052,60622,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-13,text,false,,765,495,25,25,60622,0,302
+1529585146176,60541,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-8,text,false,,765,495,25,25,60541,0,268
+1529585146271,60535,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-17,text,false,,765,495,25,25,60535,0,263
+1529585147481,60597,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-5,text,false,,765,495,25,25,60597,0,291
+1529585147705,60585,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-7,text,false,,765,495,25,25,60585,0,307
+1529585150184,60614,254 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-3,text,false,,765,495,25,25,60614,0,334
+1529585175771,60570,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-1,text,false,,765,495,25,25,60570,0,278
+1529585176919,60575,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-18,text,false,,765,495,24,24,60575,0,295
+1529585176978,60585,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-2,text,false,,765,495,23,23,60585,0,302
+1529585206341,60574,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-16,text,false,,765,495,22,22,60574,0,270
+1529585206703,60544,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-14,text,false,,765,495,21,21,60544,0,270
+1529585206756,60538,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-4,text,false,,765,495,20,20,60538,0,270
+1529585206814,60562,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-6,text,false,,765,495,19,19,60562,0,277
+1529585206742,60646,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-10,text,false,,765,495,18,18,60646,0,322
+1529585206912,60565,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-23,text,false,,765,495,17,17,60565,0,287
+1529585206966,60527,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-12,text,false,,765,495,16,16,60527,0,265
+1529585207017,60543,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-15,text,false,,765,495,15,15,60543,0,271
+1529585206967,60622,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-20,text,false,,765,495,14,14,60622,0,309
+1529585207059,60537,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-19,text,false,,765,495,13,13,60537,0,271
+1529585207120,60527,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-11,text,false,,765,495,12,12,60527,0,262
+1529585207240,60566,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-22,text,false,,765,495,11,11,60566,0,279
+1529585207331,60563,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-25,text,false,,765,495,10,10,60563,0,277
+1529585207358,60586,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-21,text,false,,765,495,9,9,60586,0,290
+1529585207607,60554,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-9,text,false,,765,495,8,8,60554,0,279
+1529585207659,60526,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-24,text,false,,765,495,7,7,60526,0,263
+1529585207675,60539,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-13,text,false,,765,495,6,6,60539,0,269
+1529585207718,60554,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-8,text,false,,765,495,5,5,60554,0,273
+1529585207807,60531,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-17,text,false,,765,495,4,4,60531,0,264
+1529585209080,60565,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-5,text,false,,765,495,3,3,60565,0,296
+1529585209292,60607,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-7,text,false,,765,495,2,2,60607,0,307
+1529585211800,60550,266 /api/match/match_asset/,504,Gateway Time-out,Thread Group 1-3,text,false,,765,495,1,1,60550,0,271

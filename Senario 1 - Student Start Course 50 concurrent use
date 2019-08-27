@@ -1,0 +1,239 @@
+Student Scenario
+
+Scenario 1 - Student Start Course 50 concurrent users
+
+Test start date = 23 Aug 2018
+Test end date = 23 Aug 2018
+Total Request Served = 3050
+Minimum Response Time = 189 ms
+Maximum Response Time = 45150 ms
+Average Response Time = 5799 ms
+Error Rate = 0%
+Throughput = 25.5 Req/sec
+
+Scenario 2 - Student Resume Course 50 concurrent users
+
+Errors
+
+Scenario 3 - Student AllCourse 50 concurrent users
+
+Test start date = 23 Aug 2018
+Test end date = 23 Aug 2018
+Total Request Served = 1250
+Minimum Response Time = 278 ms
+Maximum Response Time = 55188 ms
+Average Response Time = 14691 ms
+Error Rate = 0%
+Throughput = 18.5 Req/sec
+
+Scenario 4 - Student Complete Courses 50 concurrent users
+
+Test start date = 23 Aug 2018
+Test end date = 23 Aug 2018
+Total Request Served = 1200
+Minimum Response Time = 278 ms
+Maximum Response Time = 46778 ms
+Average Response Time = 8472 ms
+Error Rate = 0%
+Throughput = 20.5 Req/sec
+
+
+Scenario 5 - Student Add my course 50 concurrent users
+
+Test start date = 23 Aug 2018
+Test end date = 23 Aug 2018
+Total Request Served = 1350
+Minimum Response Time = 265 ms
+Maximum Response Time = 34914 ms
+Average Response Time = 9961 ms
+Error Rate = 0%
+Throughput = 23.2 Req/sec
+
+Scenario 6 - Student Add my course 50 concurrent users
+
+Test start date = 23 Aug 2018
+Test end date = 23 Aug 2018
+Total Request Served = 1250
+Minimum Response Time = 267 ms
+Maximum Response Time = 35938 ms
+Average Response Time = 9877 ms
+Error Rate = 0%
+Throughput = 19.2 Req/sec
+
+
+
+Admin Scenario 
+
+Scenario 1-2 - Admin Create Module and Course 5 concurrent users
+
+Test start date = 23 Aug 2018
+Test end date = 23 Aug 2018
+Total Request Served = 610
+Minimum Response Time = 260 ms
+Maximum Response Time = 15734 ms
+Average Response Time = 917 ms
+Error Rate = 0%
+Throughput = 5 Req/sec
+
+
+Scenario 3 - Admin Create Topic 5 concurrent users
+
+Test start date = 23 Aug 2018
+Test end date = 23 Aug 2018
+Total Request Served = 365
+Minimum Response Time = 261 ms
+Maximum Response Time = 3151 ms
+Average Response Time = 483 ms
+Error Rate = 0%
+Throughput = 9.9 Req/sec
+
+Scenario 4 - Admin Create Topic 5 concurrent users
+
+Test start date = 23 Aug 2018
+Test end date = 23 Aug 2018
+Total Request Served = 210
+Minimum Response Time = 256 ms
+Maximum Response Time = 1897 ms
+Average Response Time = 481 ms
+Error Rate = 0%
+Throughput = 9.1 Req/sec
+
+
+Scenario 5 - Admin Create bulding 5 concurrent users
+
+Test start date = 23 Aug 2018
+Test end date = 23 Aug 2018
+Total Request Served = 215
+Minimum Response Time = 262 ms
+Maximum Response Time = 937 ms
+Average Response Time = 393 ms
+Error Rate = 0%
+Throughput = 12 Req/sec
+
+Scenario 6 - Admin Export file 5 concurrent users
+
+Test start date = 23 Aug 2018
+Test end date = 23 Aug 2018
+Total Request Served = 245
+Minimum Response Time = 262 ms
+Maximum Response Time = 68973 ms
+Average Response Time = 1859 ms
+Error Rate = 0%
+Throughput = 2 Req/sec
+
+Scenario 7 - Admin Student Activity 5 concurrent users
+
+Test start date = 23 Aug 2018
+Test end date = 23 Aug 2018
+Total Request Served = 195
+Minimum Response Time = 260 ms
+Maximum Response Time = 13208 ms
+Average Response Time = 972 ms
+Error Rate = 0%
+Throughput = 4.9 Req/sec
+
+Scenario 8 - Admin Student Activity group by 5 concurrent users
+
+Test start date = 23 Aug 2018
+Test end date = 23 Aug 2018
+Total Request Served = 195
+Minimum Response Time = 264 ms
+Maximum Response Time = 13592 ms
+Average Response Time = 1758 ms
+Error Rate = 0%
+Throughput = 2.6 Req/sec
+
+Scenario 9 - Admin module libery by 5 concurrent users
+
+Test start date = 23 Aug 2018
+Test end date = 23 Aug 2018
+Total Request Served = 256
+Minimum Response Time = 264 ms
+Maximum Response Time = 979 ms
+Average Response Time = 402 ms
+Error Rate = 0%
+Throughput = 11.7 Req/sec
+
+
+Scenario 10 - Admin module libery search by topics 5 concurrent users
+
+Test start date = 23 Aug 2018
+Test end date = 23 Aug 2018
+Total Request Served = 260
+Minimum Response Time = 259 ms
+Maximum Response Time = 1848 ms
+Average Response Time = 487 ms
+Error Rate = 0%
+Throughput = 9.8 Req/sec
+
+Scenario 11 - Admin course libery 5 concurrent users
+
+Test start date = 23 Aug 2018
+Test end date = 23 Aug 2018
+Total Request Served = 205
+Minimum Response Time = 261 ms
+Maximum Response Time = 2101 ms
+Average Response Time = 480 ms
+Error Rate = 0%
+Throughput = 9.4 Req/sec
+
+Scenario 12 - Admin course libery search by topic 5 concurrent users
+
+Test start date = 23 Aug 2018
+Test end date = 23 Aug 2018
+Total Request Served = 200
+Minimum Response Time = 263 ms
+Maximum Response Time = 2088 ms
+Average Response Time = 441 ms
+Error Rate = 0%
+Throughput = 9.6 Req/sec
+
+Scenario 13 - Admin upload images 5 concurrent users
+
+Test start date = 23 Aug 2018
+Test end date = 23 Aug 2018
+Total Request Served = 295
+Minimum Response Time = 261 ms
+Maximum Response Time = 12569 ms
+Average Response Time = 968 ms
+Error Rate = 0%
+Throughput = 4.8 Req/sec
+
+
+Below are the slow endpoints 
+GET http://34.194.184.147/users/login
+GET http://34.194.184.147/css/user-style.css
+GET http://34.194.184.147/js/tooltip.js
+GET http://34.194.184.147/js/user_function.js
+GET http://34.194.184.147/css/common.css
+GET http://34.194.184.147/css/js/bootbox.js
+GET http://34.194.184.147/css/js/function.js
+GET http://34.194.184.147/css/bootstrap.min.css
+GET http://34.194.184.147/js/module_library.js
+GET http://34.194.184.147/js/jquery.js
+GET http://34.194.184.147/modules/thumbnails/oxxo2qkq40.png
+GET http://34.194.184.147/modules/videos/oxxo2qkq40.mp4
+GET http://34.194.184.147/modules/videos/oxxo2qkq40.mp4
+GET http://34.194.184.147/view_presentation/
+POST http://34.194.184.147/courses/studentModuleAction
+GET http://34.194.184.147/my_course_module_detail/
+GET http://34.194.184.147/my_course_detail/
+POST http://34.194.184.147/courses/studentCourseStartAction
+GET http://34.194.184.147/img/user-footer-logo.png
+GET http://34.194.184.147/dashboard?course_as=all_courses
+GET http://34.194.184.147/img/login-drop-bg.png
+GET http://34.194.184.147/js/jquery.js
+GET http://34.194.184.147/js/jquery-ui.min.js
+GET http://34.194.184.147css/bootstrap.min.css
+GET http://34.194.184.147/js/bootstrap.js
+GET http://34.194.184.147/js/module_library.js
+POST http://34.194.184.147/courses/studentCourseAction
+POST http://34.194.184.147/courses/getCourses
+GET http://34.194.184.147/course_library
+POST http://34.194.184.147/courses/getCourses
+GET http://34.194.184.147/new_course
+GET http://34.194.184.147/general_report
+POST http://34.194.184.147/courses/getStudentActivity
+POST http://34.194.184.147/upload_images
+
+

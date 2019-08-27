@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="986" it="0" lt="0" ct="292" ts="1533814386459" s="true" lb="184 /" rc="304" rm="Not Modified" tn="" dt="" de="" by="502" sby="503" sc="1" ec="0" ng="0" na="0" hn="abhi.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 304 Not Modified
+Connection: keep-alive
+Date: Thu, 09 Aug 2018 11:33:06 GMT
+x-amz-meta-s3cmd-attrs: uid:112/gname:jenkins/uname:jenkins/gid:117/mode:33188/mtime:1533749010/atime:1533733250/md5:edc13222147c94ce3e627ff9f984dfb2/ctime:1533749010
+ETag: &quot;edc13222147c94ce3e627ff9f984dfb2&quot;
+Server: AmazonS3
+Age: 15283
+X-Cache: Hit from cloudfront
+Via: 1.1 ba3ec7db4ff51789a8c88923c683e24c.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: iVmqfDw44_FP7dXD3SWpE4J_9XOotLf5_BhIEHrBXVv1iK0Fve6GSg==
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: keep-alive
+If-Modified-Since: Wed, 08 Aug 2018 17:23:37 GMT
+If-None-Match: &quot;edc13222147c94ce3e627ff9f984dfb2&quot;
+Accept-Language: en-US,en;q=0.5
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Host: alpha.synde.com
+</requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://alpha.synde.com/</java.net.URL>
+</httpSample>
+<httpSample t="368" it="0" lt="0" ct="179" ts="1533814387487" s="true" lb="185 /main.js" rc="304" rm="Not Modified" tn="" dt="" de="" by="483" sby="403" sc="1" ec="0" ng="0" na="0" hn="abhi.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 304 Not Modified
+Connection: keep-alive
+Date: Thu, 09 Aug 2018 11:33:07 GMT
+x-amz-meta-s3cmd-attrs: uid:112/gname:jenkins/uname:jenkins/gid:117/mode:33188/mtime:1533749010/atime:1533733250/md5:f37a408ea79fbf0771d329f51ec4bc21/ctime:1533749010
+Server: AmazonS3
+Age: 15527
+Vary: Accept-Encoding
+X-Cache: Hit from cloudfront
+Via: 1.1 359f3e8bb703cec2a97bb74c024d41c5.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: MQOJMbV6ooh-LVarPyfVCSKfrb89nn0p1LmIAq7fjxp7k21rrAPioA==
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: keep-alive
+Referer: http://alpha.synde.com/
+If-Modified-Since: Wed, 08 Aug 2018 17:23:37 GMT
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: */*
+Host: alpha.synde.com
+</requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://alpha.synde.com/main.js</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="www.google-analytics.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="854" sby="0" sc="1" ec="1" ng="0" na="0" hn="abhi.local">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT www.google-analytics.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="www.google-analytics.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="854" sby="0" sc="1" ec="1" ng="0" na="0" hn="abhi.local">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT www.google-analytics.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="442" it="0" lt="0" ct="216" ts="1533814388354" s="true" lb="186 /favicon0.ico" rc="304" rm="Not Modified" tn="" dt="" de="" by="502" sby="485" sc="1" ec="0" ng="0" na="0" hn="abhi.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 304 Not Modified
+Connection: keep-alive
+Date: Thu, 09 Aug 2018 11:33:08 GMT
+x-amz-meta-s3cmd-attrs: uid:112/gname:jenkins/uname:jenkins/gid:117/mode:33188/mtime:1533749010/atime:1533733250/md5:431a968ff005d11672c32345436b6a72/ctime:1533749010
+ETag: &quot;431a968ff005d11672c32345436b6a72&quot;
+Server: AmazonS3
+Age: 15257
+X-Cache: Hit from cloudfront
+Via: 1.1 fbcb2a6fd288d2bf675e2fa185162319.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: C0Jml2y4yUcmWpTcyQGwzX5vkb9EWXkNRUSbPNEKojToXIa-uQHM6A==
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: keep-alive
+If-Modified-Since: Wed, 08 Aug 2018 17:23:36 GMT
+If-None-Match: &quot;431a968ff005d11672c32345436b6a72&quot;
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Host: alpha.synde.com
+</requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://alpha.synde.com/favicon0.ico</java.net.URL>
+</httpSample>
+<httpSample t="367" it="0" lt="367" ct="255" ts="1533814388509" s="true" lb="187 /success.txt" rc="200" rm="OK" tn="" dt="text" de="" by="384" sby="302" sc="1" ec="0" ng="0" na="0" hn="abhi.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 8
+Last-Modified: Mon, 15 May 2017 18:04:40 GMT
+ETag: &quot;ae780585f49b94ce1444eb7d28906123&quot;
+Accept-Ranges:  none
+Server: AmazonS3
+X-Amz-Cf-Id: 1TD6zqlGSAg9aErrfQ10rpmGbY9XxpTcQUgV9fD_0ZBD_QvGqPKPUg==
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 09 Aug 2018 11:33:08 GMT
+Connection: keep-alive
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: keep-alive
+Accept-Language: en-US,en;q=0.5
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate
+Pragma: no-cache
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: */*
+Host: detectportal.firefox.com
+</requestHeader>
+  <responseData class="java.lang.String">success
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://detectportal.firefox.com/success.txt</java.net.URL>
+</httpSample>
+<httpSample t="443" it="0" lt="0" ct="215" ts="1533814390314" s="true" lb="188 /5df62a164d52a7084f961048c6f6bba4.png" rc="304" rm="Not Modified" tn="" dt="" de="" by="502" sby="483" sc="1" ec="0" ng="0" na="0" hn="abhi.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 304 Not Modified
+Connection: keep-alive
+Date: Thu, 09 Aug 2018 11:33:10 GMT
+x-amz-meta-s3cmd-attrs: uid:112/gname:jenkins/uname:jenkins/gid:117/mode:33188/mtime:1533749010/atime:1533733250/md5:5df62a164d52a7084f961048c6f6bba4/ctime:1533749010
+ETag: &quot;5df62a164d52a7084f961048c6f6bba4&quot;
+Server: AmazonS3
+Age: 15282
+X-Cache: Hit from cloudfront
+Via: 1.1 e874817f6498def18bc3c2de8e842383.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: RaW-ce5pa657Ze0VDCDjX2iKTFp-EAxojDI75BV_OPDxi87Vh9mbUg==
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: keep-alive
+Referer: http://alpha.synde.com/
+If-Modified-Since: Wed, 08 Aug 2018 17:23:34 GMT
+If-None-Match: &quot;5df62a164d52a7084f961048c6f6bba4&quot;
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: */*
+Host: alpha.synde.com
+</requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://alpha.synde.com/5df62a164d52a7084f961048c6f6bba4.png</java.net.URL>
+</httpSample>
+<httpSample t="602" it="0" lt="602" ct="314" ts="1533814416968" s="true" lb="189 /api/user/login/" rc="201" rm="Created" tn="" dt="text" de="" by="701" sby="485" sc="1" ec="0" ng="0" na="0" hn="abhi.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 201 Created
+Server: nginx/1.10.3 (Ubuntu)
+Date: Thu, 09 Aug 2018 11:33:37 GMT
+Content-Type: application/json
+Content-Length: 444
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Allow: POST
+X-Frame-Options: SAMEORIGIN
+Vary: Accept
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: keep-alive
+Referer: http://alpha.synde.com/login
+Accept-Language: en-US,en;q=0.5
+Origin: http://alpha.synde.com
+Content-Type: application/json;charset=utf-8
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: application/json, text/plain, */*
+Content-Length: 59
+Host: alpha-api.synde.com
+</requestHeader>
+  <responseData class="java.lang.String">{&quot;token&quot;:{&quot;scope&quot;:&quot;read write&quot;,&quot;refresh_token&quot;:&quot;7pIupqLGJYxNNNCS3qeaPrRqemO0hU&quot;,&quot;expires_in&quot;:18144000,&quot;access_token&quot;:&quot;3WqEvY7II0iRVyq12MJtxYV0RoE9lE&quot;},&quot;info&quot;:{&quot;client_id&quot;:&quot;pPVT1SrKNGfiJq25x28L7nTlZ9U4HeQ6MT74duRG&quot;,&quot;client_secret&quot;:&quot;FcHbnTZdGm3dGTfMskWkv0KM8b38KNzJCxbwSuY3LvyIWFmIgFA92dmCnlIvPTNdESi1MVXjcZ1AWH1QRoOmLo11P3nBPFnCSnYjDsXaBjggXEYn9QDDcOrUMXXMoOEC&quot;,&quot;profile_id&quot;:373},&quot;id&quot;:386,&quot;email&quot;:&quot;rawsponsor1@yopmail.com&quot;,&quot;user_type&quot;:&quot;Sponsor&quot;}</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;email&quot;:&quot;rawsponsor1@yopmail.com&quot;,&quot;password&quot;:&quot;9026647780&quot;}</queryString>
+  <java.net.URL>http://alpha-api.synde.com/api/user/login/</java.net.URL>
+</httpSample>
+<httpSample t="477" it="0" lt="477" ct="224" ts="1533814417657" s="true" lb="190 /api/match/count/" rc="200" rm="OK" tn="" dt="text" de="" by="269" sby="430" sc="1" ec="0" ng="0" na="0" hn="abhi.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: nginx/1.10.3 (Ubuntu)
+Date: Thu, 09 Aug 2018 11:33:38 GMT
+Content-Type: application/json
+Content-Length: 19
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Allow: GET
+X-Frame-Options: SAMEORIGIN
+Vary: Accept
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: keep-alive
+Authorization: bearer 3WqEvY7II0iRVyq12MJtxYV0RoE9lE
+Referer: http://alpha.synde.com/parent/user_dashboard
+Accept-Language: en-US,en;q=0.5
+Origin: http://alpha.synde.com
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: application/json, text/plain, */*
+Host: alpha-api.synde.com
+</requestHeader>
+  <responseData class="java.lang.String">{&quot;total_matches&quot;:0}</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://alpha-api.synde.com/api/match/count/</java.net.URL>
+</httpSample>
+<httpSample t="514" it="0" lt="514" ct="228" ts="1533814417659" s="true" lb="193 /api/user/asset-archive/" rc="200" rm="OK" tn="" dt="text" de="" by="302" sby="437" sc="1" ec="0" ng="0" na="0" hn="abhi.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: nginx/1.10.3 (Ubuntu)
+Date: Thu, 09 Aug 2018 11:33:38 GMT
+Content-Type: application/json
+Content-Length: 52
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Allow: GET
+X-Frame-Options: SAMEORIGIN
+Vary: Accept
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: keep-alive
+Authorization: bearer 3WqEvY7II0iRVyq12MJtxYV0RoE9lE
+Referer: http://alpha.synde.com/parent/user_dashboard
+Accept-Language: en-US,en;q=0.5
+Origin: http://alpha.synde.com
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: application/json, text/plain, */*
+Host: alpha-api.synde.com
+</requestHeader>
+  <responseData class="java.lang.String">{&quot;count&quot;:0,&quot;next&quot;:null,&quot;previous&quot;:null,&quot;results&quot;:[]}</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://alpha-api.synde.com/api/user/asset-archive/</java.net.URL>
+</httpSample>
+<httpSample t="524" it="0" lt="524" ct="239" ts="1533814417658" s="true" lb="191 /api/user/status/" rc="200" rm="OK" tn="" dt="text" de="" by="649" sby="430" sc="1" ec="0" ng="0" na="0" hn="abhi.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: nginx/1.10.3 (Ubuntu)
+Date: Thu, 09 Aug 2018 11:33:38 GMT
+Content-Type: application/json
+Content-Length: 398
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Allow: GET
+X-Frame-Options: SAMEORIGIN
+Vary: Accept
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: keep-alive
+Authorization: bearer 3WqEvY7II0iRVyq12MJtxYV0RoE9lE
+Referer: http://alpha.synde.com/parent/user_dashboard
+Accept-Language: en-US,en;q=0.5
+Origin: http://alpha.synde.com
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: application/json, text/plain, */*
+Host: alpha-api.synde.com
+</requestHeader>
+  <responseData class="java.lang.String">{&quot;is_registration&quot;:true,&quot;is_individual_profile&quot;:false,&quot;is_company_profile&quot;:false,&quot;is_asset_profile&quot;:false,&quot;registration_profile&quot;:{&quot;name&quot;:&quot;RSponsor v&quot;,&quot;create_date&quot;:&quot;Aug 09, 2018&quot;,&quot;company_name&quot;:&quot;rawsponsor1&quot;,&quot;last_updated&quot;:null,&quot;percentage&quot;:10,&quot;email&quot;:&quot;rawsponsor1@yopmail.com&quot;},&quot;individual_profile&quot;:{},&quot;company_profile&quot;:{},&quot;asset_preference_profile&quot;:{},&quot;is_profile_complete&quot;:true,&quot;is_verify&quot;:true}</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://alpha-api.synde.com/api/user/status/</java.net.URL>
+</httpSample>
+<httpSample t="566" it="0" lt="566" ct="265" ts="1533814417659" s="true" lb="192 /api/user/asset/" rc="200" rm="OK" tn="" dt="text" de="" by="308" sby="436" sc="1" ec="0" ng="0" na="0" hn="abhi.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: nginx/1.10.3 (Ubuntu)
+Date: Thu, 09 Aug 2018 11:33:38 GMT
+Content-Type: application/json
+Content-Length: 52
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Allow: GET, POST
+X-Frame-Options: SAMEORIGIN
+Vary: Accept
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: keep-alive
+Authorization: bearer 3WqEvY7II0iRVyq12MJtxYV0RoE9lE
+Referer: http://alpha.synde.com/parent/user_dashboard
+Accept-Language: en-US,en;q=0.5
+Origin: http://alpha.synde.com
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: application/json, text/plain, */*
+Host: alpha-api.synde.com
+</requestHeader>
+  <responseData class="java.lang.String">{&quot;count&quot;:0,&quot;next&quot;:null,&quot;previous&quot;:null,&quot;results&quot;:[]}</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://alpha-api.synde.com/api/user/asset/?page=1</java.net.URL>
+</httpSample>
+<httpSample t="515" it="0" lt="515" ct="241" ts="1533814431779" s="true" lb="194 /api/user/types/" rc="200" rm="OK" tn="" dt="text" de="" by="418" sby="424" sc="1" ec="0" ng="0" na="0" hn="abhi.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: nginx/1.10.3 (Ubuntu)
+Date: Thu, 09 Aug 2018 11:33:52 GMT
+Content-Type: application/json
+Content-Length: 167
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Allow: GET
+X-Frame-Options: SAMEORIGIN
+Vary: Accept
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: keep-alive
+Authorization: bearer 3WqEvY7II0iRVyq12MJtxYV0RoE9lE
+Referer: http://alpha.synde.com/complete_profile
+Accept-Language: en-US,en;q=0.5
+Origin: http://alpha.synde.com
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: application/json, text/plain, */*
+Host: alpha-api.synde.com
+</requestHeader>
+  <responseData class="java.lang.String">[{&quot;id&quot;:1,&quot;name&quot;:&quot;Institutional&quot;},{&quot;id&quot;:2,&quot;name&quot;:&quot;Family Office&quot;},{&quot;id&quot;:3,&quot;name&quot;:&quot;Individual&quot;},{&quot;id&quot;:4,&quot;name&quot;:&quot;Non-Profit Organization&quot;},{&quot;id&quot;:29,&quot;name&quot;:&quot;Partnership&quot;}]</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://alpha-api.synde.com/api/user/types/</java.net.URL>
+</httpSample>
+<httpSample t="530" it="0" lt="530" ct="232" ts="1533814514809" s="true" lb="195 /api/user/profile/" rc="201" rm="Created" tn="" dt="text" de="" by="849" sby="851" sc="1" ec="0" ng="0" na="0" hn="abhi.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 201 Created
+Server: nginx/1.10.3 (Ubuntu)
+Date: Thu, 09 Aug 2018 11:35:15 GMT
+Content-Type: application/json
+Content-Length: 587
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Allow: GET, POST
+X-Frame-Options: SAMEORIGIN
+Vary: Accept
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: keep-alive
+Authorization: bearer 3WqEvY7II0iRVyq12MJtxYV0RoE9lE
+Referer: http://alpha.synde.com/complete_profile
+Accept-Language: en-US,en;q=0.5
+Origin: http://alpha.synde.com
+Content-Type: application/json;charset=utf-8
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: application/json, text/plain, */*
+Content-Length: 357
+Host: alpha-api.synde.com
+</requestHeader>
+  <responseData class="java.lang.String">{&quot;result&quot;:{&quot;id&quot;:386,&quot;full_name&quot;:&quot;RSponsor v&quot;,&quot;user_address&quot;:{&quot;id&quot;:89,&quot;street&quot;:&quot;test&quot;,&quot;city&quot;:&quot;test&quot;,&quot;state&quot;:&quot;Alabama&quot;,&quot;pin&quot;:&quot;20801&quot;},&quot;email&quot;:&quot;rawsponsor1@yopmail.com&quot;,&quot;company_name&quot;:&quot;rawsponsor1&quot;,&quot;company_url&quot;:&quot;http://www.rawsponsor1.com&quot;,&quot;total_exp&quot;:&quot;10&quot;,&quot;total_transaction&quot;:1500.0,&quot;about_me&quot;:&quot;Rawsponsor1&quot;,&quot;sub_user_type&quot;:&quot;Family Office&quot;,&quot;user_type&quot;:&quot;Sponsor&quot;,&quot;contact_no&quot;:&quot;(123) 456-7890&quot;,&quot;business_title&quot;:&quot;Rawsponsor1&quot;,&quot;country_code&quot;:1,&quot;current_company_exp&quot;:&quot;10&quot;,&quot;portfolio_value&quot;:1500.0,&quot;sub_user_type_other&quot;:&quot;&quot;,&quot;update_date&quot;:&quot;2018-08-09T04:35:15.229869-07:00&quot;,&quot;sub_user_type_pk&quot;:2}}</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;user_address&quot;:{&quot;street&quot;:&quot;test&quot;,&quot;city&quot;:&quot;test&quot;,&quot;state&quot;:&quot;Alabama&quot;,&quot;pin&quot;:&quot;20801&quot;},&quot;business_title&quot;:&quot;Rawsponsor1&quot;,&quot;contact_no&quot;:&quot;(123) 456-7890&quot;,&quot;current_company_exp&quot;:&quot;10&quot;,&quot;total_exp&quot;:&quot;10&quot;,&quot;total_transaction&quot;:1500,&quot;about_me&quot;:&quot;Rawsponsor1&quot;,&quot;company_url&quot;:&quot;www.rawsponsor1.com&quot;,&quot;sub_user_type_pk&quot;:&quot;2&quot;,&quot;portfolio_value&quot;:1500,&quot;sub_user_type&quot;:&quot;2&quot;,&quot;country_code&quot;:&quot;+1&quot;}</queryString>
+  <java.net.URL>http://alpha-api.synde.com/api/user/profile/</java.net.URL>
+</httpSample>
+<httpSample t="497" it="0" lt="497" ct="230" ts="1533814515458" s="true" lb="196 /api/match/count/" rc="200" rm="OK" tn="" dt="text" de="" by="269" sby="430" sc="1" ec="0" ng="0" na="0" hn="abhi.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: nginx/1.10.3 (Ubuntu)
+Date: Thu, 09 Aug 2018 11:35:15 GMT
+Content-Type: application/json
+Content-Length: 19
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Allow: GET
+X-Frame-Options: SAMEORIGIN
+Vary: Accept
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: keep-alive
+Authorization: bearer 3WqEvY7II0iRVyq12MJtxYV0RoE9lE
+Referer: http://alpha.synde.com/parent/user_dashboard
+Accept-Language: en-US,en;q=0.5
+Origin: http://alpha.synde.com
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: application/json, text/plain, */*
+Host: alpha-api.synde.com
+</requestHeader>
+  <responseData class="java.lang.String">{&quot;total_matches&quot;:0}</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://alpha-api.synde.com/api/match/count/</java.net.URL>
+</httpSample>
+<httpSample t="507" it="0" lt="507" ct="235" ts="1533814515460" s="true" lb="198 /api/user/asset/" rc="200" rm="OK" tn="" dt="text" de="" by="308" sby="436" sc="1" ec="0" ng="0" na="0" hn="abhi.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: nginx/1.10.3 (Ubuntu)
+Date: Thu, 09 Aug 2018 11:35:15 GMT
+Content-Type: application/json
+Content-Length: 52
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Allow: GET, POST
+X-Frame-Options: SAMEORIGIN
+Vary: Accept
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: keep-alive
+Authorization: bearer 3WqEvY7II0iRVyq12MJtxYV0RoE9lE
+Referer: http://alpha.synde.com/parent/user_dashboard
+Accept-Language: en-US,en;q=0.5
+Origin: http://alpha.synde.com
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: application/json, text/plain, */*
+Host: alpha-api.synde.com
+</requestHeader>
+  <responseData class="java.lang.String">{&quot;count&quot;:0,&quot;next&quot;:null,&quot;previous&quot;:null,&quot;results&quot;:[]}</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://alpha-api.synde.com/api/user/asset/?page=1</java.net.URL>
+</httpSample>
+<httpSample t="534" it="0" lt="534" ct="247" ts="1533814515461" s="true" lb="199 /api/user/asset-archive/" rc="200" rm="OK" tn="" dt="text" de="" by="302" sby="437" sc="1" ec="0" ng="0" na="0" hn="abhi.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: nginx/1.10.3 (Ubuntu)
+Date: Thu, 09 Aug 2018 11:35:15 GMT
+Content-Type: application/json
+Content-Length: 52
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Allow: GET
+X-Frame-Options: SAMEORIGIN
+Vary: Accept
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: keep-alive
+Authorization: bearer 3WqEvY7II0iRVyq12MJtxYV0RoE9lE
+Referer: http://alpha.synde.com/parent/user_dashboard
+Accept-Language: en-US,en;q=0.5
+Origin: http://alpha.synde.com
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: application/json, text/plain, */*
+Host: alpha-api.synde.com
+</requestHeader>
+  <responseData class="java.lang.String">{&quot;count&quot;:0,&quot;next&quot;:null,&quot;previous&quot;:null,&quot;results&quot;:[]}</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://alpha-api.synde.com/api/user/asset-archive/</java.net.URL>
+</httpSample>
+<httpSample t="543" it="0" lt="543" ct="237" ts="1533814515459" s="true" lb="197 /api/user/status/" rc="200" rm="OK" tn="" dt="text" de="" by="1110" sby="430" sc="1" ec="0" ng="0" na="0" hn="abhi.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: nginx/1.10.3 (Ubuntu)
+Date: Thu, 09 Aug 2018 11:35:15 GMT
+Content-Type: application/json
+Content-Length: 859
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Allow: GET
+X-Frame-Options: SAMEORIGIN
+Vary: Accept
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: keep-alive
+Authorization: bearer 3WqEvY7II0iRVyq12MJtxYV0RoE9lE
+Referer: http://alpha.synde.com/parent/user_dashboard
+Accept-Language: en-US,en;q=0.5
+Origin: http://alpha.synde.com
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: application/json, text/plain, */*
+Host: alpha-api.synde.com
+</requestHeader>
+  <responseData class="java.lang.String">{&quot;is_registration&quot;:true,&quot;is_individual_profile&quot;:true,&quot;is_company_profile&quot;:true,&quot;is_asset_profile&quot;:false,&quot;registration_profile&quot;:{&quot;name&quot;:&quot;RSponsor v&quot;,&quot;create_date&quot;:&quot;Aug 09, 2018&quot;,&quot;company_name&quot;:&quot;rawsponsor1&quot;,&quot;last_updated&quot;:&quot;2018-08-09T11:35:15.229869Z&quot;,&quot;percentage&quot;:10,&quot;email&quot;:&quot;rawsponsor1@yopmail.com&quot;},&quot;individual_profile&quot;:{&quot;name&quot;:&quot;RSponsor v&quot;,&quot;title&quot;:&quot;Rawsponsor1&quot;,&quot;country_code&quot;:&quot;+1&quot;,&quot;current_company_exp&quot;:&quot;10&quot;,&quot;percentage&quot;:20,&quot;total_transaction&quot;:1500.0,&quot;total_exp&quot;:&quot;10&quot;,&quot;email&quot;:&quot;rawsponsor1@yopmail.com&quot;,&quot;address&quot;:{&quot;id&quot;:89,&quot;street&quot;:&quot;test&quot;,&quot;city&quot;:&quot;test&quot;,&quot;state&quot;:&quot;Alabama&quot;,&quot;pin&quot;:&quot;20801&quot;},&quot;contact_no&quot;:&quot;(123) 456-7890&quot;},&quot;company_profile&quot;:{&quot;sub_user_type&quot;:&quot;Family Office&quot;,&quot;percentage&quot;:20,&quot;company_url&quot;:&quot;http://www.rawsponsor1.com&quot;,&quot;company_name&quot;:&quot;rawsponsor1&quot;,&quot;portfolio_value&quot;:1500.0},&quot;asset_preference_profile&quot;:{},&quot;is_profile_complete&quot;:true,&quot;is_verify&quot;:true}</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://alpha-api.synde.com/api/user/status/</java.net.URL>
+</httpSample>

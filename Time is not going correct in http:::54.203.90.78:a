@@ -1,0 +1,38 @@
+Time is not going correct in http://54.203.90.78/api/v1/reports? from android app | Check screenshots 
+
+
+
+{"data":[{"points":1,"order":1,"name":"New Prospect: Cold","id":1,"goal":"New Prospects","data":0,"count":2.0},{"points":3,"order":2,"name":"New Prospect: Referral","id":2,"goal":"New Prospects","data":0,"count":2.0},{"points":2,"order":3,"name":"Center of Influence Meeting","id":3,"goal":"Ignored","data":0,"count":3.0},{"points":0,"order":4,"name":"Prospect Contact Attempt","id":4,"goal":"Appointments Attempted","data":0,"count":1.0},{"points":1,"order":5,"name":"Prospect Contact Made","id":5,"goal":"Prospect Contacts Made","data":0,"count":1.0},{"points":1,"order":6,"name":"Schedule New Appointment","id":6,"goal":"Appointments Scheduled","data":0,"count":1.0},{"points":2,"order":7,"name":"Completed New Fact Finder","id":7,"goal":"Fact Finding Meetings","data":0,"count":1.0},{"points":2,"order":8,"name":"Schedule Closing Interview","id":8,"goal":"Closing Interviews","data":0,"count":1.0},{"points":2,"order":9,"name":"Submit New Client","id":9,"goal":"New Clients","data":1000,"count":1.0}]}
+
+
+{"data":[{"points":1,"order":1,"name":"New Prospect: Cold","id":1,"goal":"New Prospects","data":0,"count":2.0},{"points":3,"order":2,"name":"New Prospect: Referral","id":2,"goal":"New Prospects","data":0,"count":2.0},{"points":2,"order":3,"name":"Center of Influence Meeting","id":3,"goal":"Ignored","data":0,"count":2.0},{"points":0,"order":4,"name":"Prospect Contact Attempt","id":4,"goal":"Appointments Attempted","data":0,"count":2.0},{"points":1,"order":5,"name":"Prospect Contact Made","id":5,"goal":"Prospect Contacts Made","data":0,"count":2.0},{"points":1,"order":6,"name":"Schedule New Appointment","id":6,"goal":"Appointments Scheduled","data":0,"count":2.0},{"points":2,"order":7,"name":"Completed New Fact Finder","id":7,"goal":"Fact Finding Meetings","data":0,"count":2.0},{"points":2,"order":8,"name":"Schedule Closing Interview","id":8,"goal":"Closing Interviews","data":0,"count":2.0},{"points":2,"order":9,"name":"Submit New Client","id":9,"goal":"New Clients","data":2000,"count":2.0}]}
+
+
+UPDATE users SET isemailconfirmed = true;
+
+UPDATE public.users SET status = 'active';
+
+SELECT email FROM public.users where email like ='manager%'
+
+
+SELECT * FROM public.users where email like 'manager%'
+
+SELECT * FROM public.users where email like 'ebix%' order by desc
+
+
+$2a$10$ACgOA75mGsY0r/ofM0w08O0mnFZKSYf9QkiVLi.lOdUuYx37zm6C2
+
+$2a$10$dEcYui7sKvKEe1x816ZTF.2xGbMnKmuZdBVX0YPu/p3cSrdAIAOSq
+
+
+UPDATE users SET password_hash = '$2a$10$dEcYui7sKvKEe1x816ZTF.2xGbMnKmuZdBVX0YPu/p3cSrdAIAOSq' where email like 'neha%';
+
+
+SELECT company_id,id,email,manager_id FROM public.users where email like 'producer%'
+
+
+
+SELECT email FROM public.users where email like 'ebix%' ORDER BY id asc
+
+
+SELECT * FROM public.users where email like 'performance%' ORDER BY id asc
